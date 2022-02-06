@@ -96,7 +96,7 @@
 <script>BX.setJSList(['/bitrix/js/main/core/core_ajax.js','/bitrix/js/main/core/core_promise.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/loadext/loadext.js','/bitrix/js/main/loadext/extension.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/includes/js/includes.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/ui/polyfill/closest/js/closest.js','/bitrix/js/main/polyfill/fill/main.polyfill.fill.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/lazyload/dist/lazyload.bundle.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/parambag/dist/parambag.bundle.js']);
 BX.setCSSList(['/bitrix/js/main/lazyload/dist/lazyload.bundle.css','/bitrix/js/main/parambag/dist/parambag.bundle.css']);</script>
 <script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Loading...','JS_CORE_WINDOW_CLOSE':'Close','JS_CORE_WINDOW_EXPAND':'Expand','JS_CORE_WINDOW_NARROW':'Restore','JS_CORE_WINDOW_SAVE':'Save','JS_CORE_WINDOW_CANCEL':'Cancel','JS_CORE_H':'h','JS_CORE_M':'m','JS_CORE_S':'s','JS_CORE_NO_DATA':'- No data -','JSADM_AI_HIDE_EXTRA':'Hide extra items','JSADM_AI_ALL_NOTIF':'All notifications','JSADM_AUTH_REQ':'Authentication is required!','JS_CORE_WINDOW_AUTH':'Log In','JS_CORE_IMAGE_FULL':'Full size','JS_CORE_WINDOW_CONTINUE':'Continue'});</script>
-<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'en','FORMAT_DATE':'MM/DD/YYYY','FORMAT_DATETIME':'MM/DD/YYYY H:MI:SS T','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'10800','SITE_ID':'s9','SITE_DIR':'/en/','USER_ID':'','SERVER_TIME':'1644150014','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'c48a951a8ddc6f91cbffed57181b376f'});</script>
+<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'en','FORMAT_DATE':'MM/DD/YYYY','FORMAT_DATETIME':'MM/DD/YYYY H:MI:SS T','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'10800','SITE_ID':'s9','SITE_DIR':'/en/','USER_ID':'','SERVER_TIME':'1644178727','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'032f55b828f0b6a95711fd535814f545'});</script>
 
 
 <script type="text/javascript"  src="/bitrix/cache/js/s9/university24/kernel_main/kernel_main_v1.js?1643886936142325"></script>
@@ -642,7 +642,7 @@ Innopolis University </h3>
             <input type="hidden" class="js-contacts-description" value="" />
             <input type="hidden" class="js-analytics-event" value="" />
             <form class="contacts__contact-us" id="contacts__form" action="" method="POST">
-    <input type="hidden" name="sessid" id="sessid" value="c48a951a8ddc6f91cbffed57181b376f" />    <input type="hidden" name="check_bot" value="101">
+    <input type="hidden" name="sessid" id="sessid" value="032f55b828f0b6a95711fd535814f545" />    <input type="hidden" name="check_bot" value="101">
     <input type="hidden" name="action" value="contact_with_us">
     <input type="hidden" class="js-contants-email-to-input" name="email_to" value="">
     <input type="hidden" name="from" value="https://apply.innopolis.university/en/bachelor/">
