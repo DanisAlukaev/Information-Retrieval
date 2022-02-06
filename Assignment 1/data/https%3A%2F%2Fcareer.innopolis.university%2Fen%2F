@@ -61,7 +61,7 @@
 
 <script>BX.setJSList(['/bitrix/js/main/core/core_ajax.js','/bitrix/js/main/core/core_promise.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/loadext/loadext.js','/bitrix/js/main/loadext/extension.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/includes/js/includes.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/ui/polyfill/closest/js/closest.js','/bitrix/js/main/polyfill/fill/main.polyfill.fill.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/lazyload/dist/lazyload.bundle.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/parambag/dist/parambag.bundle.js']);
 BX.setCSSList(['/bitrix/js/main/lazyload/dist/lazyload.bundle.css','/bitrix/js/main/parambag/dist/parambag.bundle.css']);</script>
-<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'en','FORMAT_DATE':'MM/DD/YYYY','FORMAT_DATETIME':'MM/DD/YYYY H:MI:SS T','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'10800','SITE_ID':'s2','SITE_DIR':'/en/','USER_ID':'','SERVER_TIME':'1644146456','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'67d55edd4476903254f7f71cceaa66f1'});</script>
+<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'en','FORMAT_DATE':'MM/DD/YYYY','FORMAT_DATETIME':'MM/DD/YYYY H:MI:SS T','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'10800','SITE_ID':'s2','SITE_DIR':'/en/','USER_ID':'','SERVER_TIME':'1644150014','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'a90c703e0e858255cf38b9ce723db1bc'});</script>
 
 
 <script type="text/javascript"  src="/bitrix/cache/js/s2/university24/kernel_main/kernel_main_v1.js?164380190176265"></script>
@@ -575,7 +575,7 @@ In 2015, we moved to Innopolis. we were most impressed by the architecture of th
 <div class="career-feedback__form-container career-vacancies g-pt-auto g-pb-auto g-pl-auto g-mt-0">
     <div class="career-feedback__form-wrap">
         <form class="career-feedback__form" id="career-feedback__form" action="" method="POST" data-english="Y">
-    <input type="hidden" name="sessid" id="sessid" value="67d55edd4476903254f7f71cceaa66f1" />    <input type="hidden" name="check_bot" value="101">
+    <input type="hidden" name="sessid" id="sessid" value="a90c703e0e858255cf38b9ce723db1bc" />    <input type="hidden" name="check_bot" value="101">
     <input type="hidden" name="action" value="send_resume">
     <p class="career-feedback__form-title">
                     Please submit your faculty job application pack via this form.
