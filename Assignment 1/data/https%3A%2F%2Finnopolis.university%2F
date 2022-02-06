@@ -49,10 +49,10 @@
 <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Mono:100,200,300,400,500,600,700&display=swap&subset=cyrillic" type="text/css"  rel="stylesheet" />
 <link href="/bitrix/js/ui/fonts/opensans/ui.font.opensans.min.css?15828782001861" type="text/css"  rel="stylesheet" />
 <link href="/bitrix/js/main/popup/dist/main.popup.bundle.min.css?158287801423381" type="text/css"  rel="stylesheet" />
-<link href="/bitrix/cache/css/s1/university24/kernel_landing_assets_3c2b6b4ad33fae4910119ba6c49f1a84/kernel_landing_assets_3c2b6b4ad33fae4910119ba6c49f1a84_v1.css?1643112924634" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/s1/university24/kernel_landing_assets_3c2b6b4ad33fae4910119ba6c49f1a84/kernel_landing_assets_3c2b6b4ad33fae4910119ba6c49f1a84_v1.css?1643801851634" type="text/css"  rel="stylesheet" />
 <link href="/bitrix/js/altasib.errorsend/css/window.css?14605340164771" type="text/css"  rel="stylesheet" />
-<link href="/bitrix/cache/css/s1/university24/page_2f0c366cefdd3fed2d696fb4d45a92df/page_2f0c366cefdd3fed2d696fb4d45a92df_v1.css?164250665137636" type="text/css"  rel="stylesheet" />
-<link href="/bitrix/cache/css/s1/university24/template_2fcb2df936238e48a9db6a26e52e97eb/template_2fcb2df936238e48a9db6a26e52e97eb_v1.css?16425066511359307" type="text/css"  data-template-style="true" rel="stylesheet" />
+<link href="/bitrix/cache/css/s1/university24/page_2f0c366cefdd3fed2d696fb4d45a92df/page_2f0c366cefdd3fed2d696fb4d45a92df_v1.css?164380185137636" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/s1/university24/template_482d2f2e5b0a6cab37957f3a169e8ad6/template_482d2f2e5b0a6cab37957f3a169e8ad6_v1.css?16438018411270545" type="text/css"  data-template-style="true" rel="stylesheet" />
 <link href="/bitrix/panel/main/popup.min.css?146053375320704" type="text/css"  data-template-style="true"  rel="stylesheet" />
 <script type="text/javascript">if(!window.BX)window.BX={};if(!window.BX.message)window.BX.message=function(mess){if(typeof mess=='object') for(var i in mess) BX.message[i]=mess[i]; return true;};</script>
 <script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_WINDOW_CONTINUE':'Продолжить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script>
@@ -61,14 +61,14 @@
 
 <script>BX.setJSList(['/bitrix/js/main/core/core_ajax.js','/bitrix/js/main/core/core_promise.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/loadext/loadext.js','/bitrix/js/main/loadext/extension.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/includes/js/includes.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/ui/polyfill/closest/js/closest.js','/bitrix/js/main/polyfill/fill/main.polyfill.fill.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/lazyload/dist/lazyload.bundle.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/parambag/dist/parambag.bundle.js']);
 BX.setCSSList(['/bitrix/js/main/lazyload/dist/lazyload.bundle.css','/bitrix/js/main/parambag/dist/parambag.bundle.css']);</script>
-<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'10800','SITE_ID':'s1','SITE_DIR':'/','USER_ID':'','SERVER_TIME':'1643617776','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'4fc024ec8704853b430029d7bd3ea40e'});</script>
+<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'10800','SITE_ID':'s1','SITE_DIR':'/','USER_ID':'','SERVER_TIME':'1644142469','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'cbae5ba264fffeebc2d9df45f878ad33'});</script>
 
 
-<script type="text/javascript"  src="/bitrix/cache/js/s1/university24/kernel_main/kernel_main_v1.js?1642596977142325"></script>
+<script type="text/javascript"  src="/bitrix/cache/js/s1/university24/kernel_main/kernel_main_v1.js?1643970974142325"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 <script type="text/javascript" src="/bitrix/js/main/popup/dist/main.popup.bundle.min.js?158287801457817"></script>
-<script type="text/javascript"  src="/bitrix/cache/js/s1/university24/kernel_landing_assets_3c2b6b4ad33fae4910119ba6c49f1a84/kernel_landing_assets_3c2b6b4ad33fae4910119ba6c49f1a84_v1.js?164311292440106"></script>
-<script type="text/javascript">BX.setJSList(['/bitrix/js/main/core/core_window.js','/bitrix/js/main/core/core_fx.js','/bitrix/js/main/session.js','/bitrix/js/main/dd.js','/bitrix/js/main/date/main.date.js','/bitrix/js/main/core/core_date.js','/bitrix/js/landing/utils/utils.js','/bitrix/js/landing/mediaplayer/base_mediaplayer.js','/bitrix/js/landing/mediaplayer/youtube_mediaplayer.js','/bitrix/js/landing/mediaplayer/mediaplayer_factory.js','/bitrix/js/main/polyfill/intersectionobserver/js/intersectionobserver.js','/bitrix/js/landing/event-tracker/event-tracker.js','/bitrix/js/landing/event-tracker/services/base-service.js','/bitrix/js/landing/event-tracker/services/google-analytics-service.js','/bitrix/js/landing/polyfill.js','/bitrix/js/landing/events/block_event.js','/bitrix/js/landing/public.js','/bitrix/components/bitrix/landing.pub/templates/.default/script.js','/local/templates/.default/static/js/global.js','/local/templates/.default/static/js/index.js','/local/templates/university24/js/script.js']); </script>
+<script type="text/javascript"  src="/bitrix/cache/js/s1/university24/kernel_landing_assets_3c2b6b4ad33fae4910119ba6c49f1a84/kernel_landing_assets_3c2b6b4ad33fae4910119ba6c49f1a84_v1.js?164380185140106"></script>
+<script type="text/javascript">BX.setJSList(['/bitrix/js/main/core/core_window.js','/bitrix/js/main/session.js','/bitrix/js/main/core/core_fx.js','/bitrix/js/main/date/main.date.js','/bitrix/js/main/core/core_date.js','/bitrix/js/main/dd.js','/bitrix/js/landing/utils/utils.js','/bitrix/js/landing/mediaplayer/base_mediaplayer.js','/bitrix/js/landing/mediaplayer/youtube_mediaplayer.js','/bitrix/js/landing/mediaplayer/mediaplayer_factory.js','/bitrix/js/main/polyfill/intersectionobserver/js/intersectionobserver.js','/bitrix/js/landing/event-tracker/event-tracker.js','/bitrix/js/landing/event-tracker/services/base-service.js','/bitrix/js/landing/event-tracker/services/google-analytics-service.js','/bitrix/js/landing/polyfill.js','/bitrix/js/landing/events/block_event.js','/bitrix/js/landing/public.js','/bitrix/components/bitrix/landing.pub/templates/.default/script.js','/local/templates/.default/static/js/global.js','/local/templates/.default/static/js/index.js','/local/templates/university24/js/script.js']); </script>
 <script type="text/javascript">BX.setCSSList(['/local/blocks/university/university-main-news/style.css','/bitrix/js/landing/css/landing_public.css','/bitrix/components/bitrix/landing.pub/templates/.default/style.css','/local/templates/university24/components/bitrix/catalog.section/news-top/style.css','/local/templates/university24/css/landing24_editor.css','/local/templates/university24/css/custom_themes_core.min.css','/local/templates/.default/static/public/fonts/icons/style.css','/local/templates/.default/static/style/index.css','/local/templates/university24/template_styles.css']); </script>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="facebook-domain-verification" content="qyn2xlorvwh580bb4no8quluq02taf" />
@@ -93,8 +93,8 @@ var ALXerrorSendMessages={
 
 
 
-<script type="text/javascript"  src="/bitrix/cache/js/s1/university24/template_78c549f1283ad05b42ae892cfd905f39/template_78c549f1283ad05b42ae892cfd905f39_v1.js?16425066511076064"></script>
-<script type="text/javascript"  src="/bitrix/cache/js/s1/university24/page_a5fa71f23483693447051051f9a9673d/page_a5fa71f23483693447051051f9a9673d_v1.js?16425066512066"></script>
+<script type="text/javascript"  src="/bitrix/cache/js/s1/university24/template_78c549f1283ad05b42ae892cfd905f39/template_78c549f1283ad05b42ae892cfd905f39_v1.js?16438018411076064"></script>
+<script type="text/javascript"  src="/bitrix/cache/js/s1/university24/page_a5fa71f23483693447051051f9a9673d/page_a5fa71f23483693447051051f9a9673d_v1.js?16438018512066"></script>
 <script type="text/javascript" src="https://www.youtube.com/iframe_api"></script>
 <script type="text/javascript">var _ba = _ba || []; _ba.push(["aid", "485b12fc1f914dda537897b37b715cdf"]); _ba.push(["host", "innopolis.university"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
 
@@ -728,34 +728,62 @@ var ALXerrorSendMessages={
                     <p class="uni-main__news-top-news-additional-item-text">
                         Университет Иннополис открыл регистрацию на онлайн-хакатон по ИИ с призовым фондом 1 млн рублей                    </p>
                 </a>
-                                                                        <a href="https://media.innopolis.university/news/Obuchenie-dlya-tyutorov-edtech-2022/"
+                                                                        <a href="https://media.innopolis.university/news/vesennie-intensivy-iu-2022/"
                        class="uni-main__news-top-news-additional-item "
                        data-count="0">
+                        <p class="uni-main__news-top-news-additional-item-date">
+                            3.02.2022                        </p>
+                        <p class="uni-main__news-top-news-additional-item-text">
+                            Открыта регистрация на весенние интенсивы  по программированию и подготовке к ЕГЭ Университета Иннополис                        </p>
+                    </a>
+                                                                            <a href="https://media.innopolis.university/news/courses-for-trainers-wro-2022/"
+                       class="uni-main__news-top-news-additional-item "
+                       data-count="1">
+                        <p class="uni-main__news-top-news-additional-item-date">
+                            1.02.2022                        </p>
+                        <p class="uni-main__news-top-news-additional-item-text">
+                            Курсы повышения квалификации для тренеров и педагогов по образовательной робототехнике «Олимпиадная подготовка к WRO 2022»                        </p>
+                    </a>
+                                                                            <a href="https://media.innopolis.university/news/Obuchenie-dlya-tyutorov-edtech-2022/"
+                       class="uni-main__news-top-news-additional-item uni-main__news-top-news-additional-item_mobile-hide"
+                       data-count="2">
                         <p class="uni-main__news-top-news-additional-item-date">
                             25.01.2022                        </p>
                         <p class="uni-main__news-top-news-additional-item-text">
                             Университет Иннополис запустил обучение  для тьюторов в области EdTech                        </p>
                     </a>
-                                                                            <a href="https://media.innopolis.university/news/digital-transformation-universities/"
-                       class="uni-main__news-top-news-additional-item "
-                       data-count="1">
-                        <p class="uni-main__news-top-news-additional-item-date">
-                            24.01.2022                        </p>
-                        <p class="uni-main__news-top-news-additional-item-text">
-                            Университет Иннополис обучит российские вузы проводить цифровую трансформацию                         </p>
-                    </a>
-                                                                            <a href="https://media.innopolis.university/news/phantom-os-iu/"
-                       class="uni-main__news-top-news-additional-item uni-main__news-top-news-additional-item_mobile-hide"
-                       data-count="2">
-                        <p class="uni-main__news-top-news-additional-item-date">
-                            24.01.2022                        </p>
-                        <p class="uni-main__news-top-news-additional-item-text">
-                            DZ Systems и Университет Иннополис сообщили о завершающей фазе разработки российской ОС «Фантом»                        </p>
-                    </a>
-                                                                                                        </div>
+                                                                                    </div>
             </div>
             <div class="uni-main__news-row">
-                                                                                                                        <a href="https://media.innopolis.university/news/innoride-iu/" class="uni-main__news-bottom" data-count="0">
+                                                                                                        <a href="https://media.innopolis.university/news/digital-transformation-universities/" class="uni-main__news-bottom" data-count="0">
+                                            <img src="/upload/resize_cache/iblock/c6d/510_340_2/SHI_0001.jpg"
+                             alt=""/>
+                                        <p class="uni-main__news-bottom-date">24.01.2022</p>
+                    <p class="uni-main__news-bottom-title">
+                        Университет Иннополис обучит российские вузы проводить цифровую трансформацию                     </p>
+                    <div class="uni-main__news-bottom__info">
+                        <p class="uni-main__news-bottom-text">
+                            Обучение Центра проектов и практик на базе российского ИТ-вуза пройдёт&nbsp;&nbsp;1 марта — 19 мая. По итогам слушатели создадут проекты стратегий цифровой трансформации своей образовательной организации в соответствии с федеральными требованиями. Программа разработана по заказу Минобрнауки России.                         </p>
+                        <span class="uni-main__news-bottom__btn icon-ic_arrow">
+                                                            Читать
+                                                    </span>
+                    </div>
+                </a>
+                                                            <a href="https://media.innopolis.university/news/phantom-os-iu/" class="uni-main__news-bottom" data-count="1">
+                                            <img src="/upload/resize_cache/iblock/512/510_340_2/Phantomos.png"
+                             alt=""/>
+                                        <p class="uni-main__news-bottom-date">24.01.2022</p>
+                    <p class="uni-main__news-bottom-title">
+                        DZ Systems и Университет Иннополис сообщили о завершающей фазе разработки российской ОС «Фантом»                    </p>
+                    <div class="uni-main__news-bottom__info">
+                        <p class="uni-main__news-bottom-text">
+                            Группа ИТ-компаний DZ Systems и Университет Иннополис сообщают о переходе к завершающей стадии разработки российской ОС «Фантом»&nbsp;— уникальной операционной системы нового поколения, базирующейся на принципиально новом подходе к созданию программного кода. Потенциальные области применения ОС «Фантом» — предприятия энергетического сектора, включая атомные электростанции,  медицинские учреждения, промышленные предприятия непрерывного цикла, банки, оборонно-промышленный комплекс, многие объекты критической информационной инфраструктуры, где требуется повышенная безопасность. В течение 2022 года планируется получение тестовой версии, ее итогом станет создание рабочего прототипа ОС «Фантом», портированной на базу ядра Genode.                        </p>
+                        <span class="uni-main__news-bottom__btn icon-ic_arrow">
+                                                            Читать
+                                                    </span>
+                    </div>
+                </a>
+                                                                            <a href="https://media.innopolis.university/news/innoride-iu/" class="uni-main__news-bottom" data-count="2">
                                             <img src="/upload/resize_cache/iblock/296/510_340_2/Innoride.jpg"
                              alt=""/>
                                         <p class="uni-main__news-bottom-date">18.01.2022</p>
@@ -764,34 +792,6 @@ var ALXerrorSendMessages={
                     <div class="uni-main__news-bottom__info">
                         <p class="uni-main__news-bottom-text">
                             С помощью новых решений компании DigitalAutoSystems, учреждённой российским ИТ-вузом, спецтехника сможет самостоятельно строить маршруты, в том числе по бездорожью, подготавливать площадки для работ, копать грунт и перевозить грузы. Внедрение платформы InnoRide повысит точность и эффективность операций за счет снижения человеческих ошибок, а также обезопасит человека от работ в опасных условиях. Проект реализуется при поддержке Российского фонда развития информационных технологий, входящего в группу государственной корпорации развития ВЭБ.РФ                        </p>
-                        <span class="uni-main__news-bottom__btn icon-ic_arrow">
-                                                            Читать
-                                                    </span>
-                    </div>
-                </a>
-                                                            <a href="https://media.innopolis.university/news/blockchain-platform-iu/" class="uni-main__news-bottom" data-count="1">
-                                            <img src="/upload/resize_cache/iblock/ed0/510_340_2/image_2022-01-14_14-50-252 (1) (1).png"
-                             alt=""/>
-                                        <p class="uni-main__news-bottom-date">14.01.2022</p>
-                    <p class="uni-main__news-bottom-title">
-                        Университет Иннополис разрабатывает блокчейн-платформу для АЗС и топливных операторов                    </p>
-                    <div class="uni-main__news-bottom__info">
-                        <p class="uni-main__news-bottom-text">
-                            Решение позволит компаниям топливной отрасли контролировать операции покупки и продажи топлива по корпоративным топливным картам и автоматизировать рутинные бизнес-процессы различных компаний отрасли в едином информационном пространстве. Платформа разрабатывается на базе первого в мире формально-верифицированного блокчейна InnoChain, созданного в Университете Иннополис.                        </p>
-                        <span class="uni-main__news-bottom__btn icon-ic_arrow">
-                                                            Читать
-                                                    </span>
-                    </div>
-                </a>
-                                                            <a href="https://media.innopolis.university/news/30-natsionalnykh-standartov-v-oblasti-dannykh-dzz-2021/" class="uni-main__news-bottom" data-count="2">
-                                            <img src="/upload/iblock/6a0/IMG_9987.png"
-                             alt=""/>
-                                        <p class="uni-main__news-bottom-date">30.12.2021</p>
-                    <p class="uni-main__news-bottom-title">
-                        В России утвердили 30 национальных стандартов в области данных дистанционного зондирования Земли из космоса                     </p>
-                    <div class="uni-main__news-bottom__info">
-                        <p class="uni-main__news-bottom-text">
-                            Новые стандарты разработаны специалистами Центра геоинформационных систем Университета Иннополис по заказу госкорпорации «Роскосмос», утверждены Федеральным агентством по техническому регулированию и метрологии &#40;Росстандарт&#41; и вступят в действие в полном объёме 1 мая 2022 года.                        </p>
                         <span class="uni-main__news-bottom__btn icon-ic_arrow">
                                                             Читать
                                                     </span>
@@ -807,6 +807,16 @@ var ALXerrorSendMessages={
         <h2 class="career__vacancies-title">Мероприятия</h2>
             <div class=" career__vacancies-wrap">
         <div class="swiper-wrapper career__vacancies-slider-wrapper">
+                            <div class="swiper-slide career__vacancies-item">
+                    <a href="https://media.innopolis.university/events/crossconf/">
+                        <div class="career__vacancies-item-main">
+                            <p class="salary">
+                                8 апреля — 9 апреля 2022                            </p>
+                            <h2 class="vacancy">конференция</h2>
+                            <p class="vacancy__schedule">CrossConf</p>
+                        </div>
+                    </a>
+                </div>
                             <div class="swiper-slide career__vacancies-item">
                     <a href="https://media.innopolis.university/events/mezhdunarodnyy-otraslevoy-khakaton-v-oblasti-iskusstvennogo-intellekta-the-global-ai-challenge-/">
                         <div class="career__vacancies-item-main">
@@ -863,11 +873,13 @@ var ALXerrorSendMessages={
 							<div class="landing-footer"><div id="block954" class="block-wrapper block-footer-default"><div class="footer-container g-bg-blue">
     <div class="footer-top-wrap">
         <div class="container">
-            <a href="https://innopolis.university/oblast22/#block954" class="footer-top-link-dashed" target="_self">&nbsp;</a>
+            <!--
+            <a href="#" class="footer-top-link-dashed">Все медиа</a>
+            -->
             <div class="footer-top-link-list "><div class="footer-top-link-list__item">
                     <a href="https://www.facebook.com/innopolisU" class="footer-top-link" target="_popup" data-url="https://www.facebook.com/plugins/page.php?href=https://www.facebook.com/InnopolisU&tabs=timeline&width=340&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true">Facebook</a>
-                </div><div class="footer-top-link-list__item landing-card">
-                    <a href="https://vk.com/innopolisu" class="footer-top-link" target="_blank" data-selector=".footer-top-link@1" title="Нажмите, чтобы отредактировать кнопку">ВКонтакте</a>
+                </div><div class="footer-top-link-list__item">
+                    <a href="https://vk.com/innopolisu" class="footer-top-link" target="_blank">ВКонтакте</a>
                 </div><div class="footer-top-link-list__item">
                     <a href="https://www.youtube.com/user/InnopolisU" class="footer-top-link" target="_blank">YouTube</a>
                 </div><div class="footer-top-link-list__item">

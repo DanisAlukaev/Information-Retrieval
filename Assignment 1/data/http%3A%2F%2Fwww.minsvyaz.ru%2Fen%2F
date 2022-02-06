@@ -139,15 +139,15 @@ var s = d.getElementsByTagName(t)[0]; s.parentNode.insertBefore(j, s);
 
                 <div class="col-md-3 col-sm-6 text-gray">
                     Find us in social media:&nbsp;&nbsp;
-                    <a href="https://twitter.com/minsvyaz_news" target="_blank" rel="nofollow"
+                    <a href="https://twitter.com/mintsifry" target="_blank" rel="nofollow"
                        class="fa-stack text-gray">
                         <i class="fa fa-twitter fa-stack-1x"></i>
                     </a>
-                    <a href="https://www.facebook.com/minsvyaz?fref=ts" target="_blank" rel="nofollow" class="fa-stack text-gray">
+                    <a href="https://www.facebook.com/mintsifry?fref=ts" target="_blank" rel="nofollow" class="fa-stack text-gray">
                         <i class="fa fa-facebook fa-stack-1x"></i>
                     </a>
                     
-                    <a href="https://www.instagram.com/minsvyaz_official" target="_blank" rel="nofollow"
+                    <a href="https://www.instagram.com/mintsifry" target="_blank" rel="nofollow"
                        class="fa-stack text-gray">
                         <i class="fa fa-instagram fa-stack-1x"></i>
                     </a>

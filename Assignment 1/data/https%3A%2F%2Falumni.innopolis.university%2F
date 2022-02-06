@@ -47,10 +47,10 @@
 <link href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900&display=swap&subset=cyrillic" type="text/css"  rel="stylesheet" />
 <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:100,200,300,400,500,600,700&display=swap&subset=cyrillic" type="text/css"  rel="stylesheet" />
 <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Mono:100,200,300,400,500,600,700&display=swap&subset=cyrillic" type="text/css"  rel="stylesheet" />
-<link href="/bitrix/cache/css/e4/university24/kernel_landing_assets_0296773938e4a161482f99ee413de44a/kernel_landing_assets_0296773938e4a161482f99ee413de44a_v1.css?16425975884445" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/e4/university24/kernel_landing_assets_0296773938e4a161482f99ee413de44a/kernel_landing_assets_0296773938e4a161482f99ee413de44a_v1.css?16438020364445" type="text/css"  rel="stylesheet" />
 <link href="/bitrix/js/altasib.errorsend/css/window.css?14605340164771" type="text/css"  rel="stylesheet" />
-<link href="/bitrix/cache/css/e4/university24/page_d118ff48322436c04c9ad613cdbcc6b9/page_d118ff48322436c04c9ad613cdbcc6b9_v1.css?164250781437177" type="text/css"  rel="stylesheet" />
-<link href="/bitrix/cache/css/e4/university24/template_2fcb2df936238e48a9db6a26e52e97eb/template_2fcb2df936238e48a9db6a26e52e97eb_v1.css?16425078141359307" type="text/css"  data-template-style="true" rel="stylesheet" />
+<link href="/bitrix/cache/css/e4/university24/page_d118ff48322436c04c9ad613cdbcc6b9/page_d118ff48322436c04c9ad613cdbcc6b9_v1.css?164380203637177" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/e4/university24/template_482d2f2e5b0a6cab37957f3a169e8ad6/template_482d2f2e5b0a6cab37957f3a169e8ad6_v1.css?16438020361270545" type="text/css"  data-template-style="true" rel="stylesheet" />
 <link href="/bitrix/panel/main/popup.min.css?146053375320704" type="text/css"  data-template-style="true"  rel="stylesheet" />
 <script type="text/javascript">if(!window.BX)window.BX={};if(!window.BX.message)window.BX.message=function(mess){if(typeof mess=='object') for(var i in mess) BX.message[i]=mess[i]; return true;};</script>
 <script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_WINDOW_CONTINUE':'Продолжить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script>
@@ -60,13 +60,13 @@
 <script>BX.setJSList(['/bitrix/js/main/core/core_ajax.js','/bitrix/js/main/core/core_promise.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/loadext/loadext.js','/bitrix/js/main/loadext/extension.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/includes/js/includes.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/ui/polyfill/closest/js/closest.js','/bitrix/js/main/polyfill/fill/main.polyfill.fill.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/lazyload/dist/lazyload.bundle.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/parambag/dist/parambag.bundle.js']);
 BX.setCSSList(['/bitrix/js/main/lazyload/dist/lazyload.bundle.css','/bitrix/js/main/parambag/dist/parambag.bundle.css']);</script>
 <script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_WINDOW_CONTINUE':'Продолжить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script>
-<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'10800','SITE_ID':'e4','SITE_DIR':'/','USER_ID':'','SERVER_TIME':'1643786595','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'131f690a07e6ecf65fb4a881cd05fd8b'});</script>
+<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'10800','SITE_ID':'e4','SITE_DIR':'/','USER_ID':'','SERVER_TIME':'1644146461','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'b33da6ebe1bcf10280981e1a23679517'});</script>
 
 
-<script type="text/javascript"  src="/bitrix/cache/js/e4/university24/kernel_main/kernel_main_v1.js?1642597362142325"></script>
+<script type="text/javascript"  src="/bitrix/cache/js/e4/university24/kernel_main/kernel_main_v1.js?164380203676265"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-<script type="text/javascript"  src="/bitrix/cache/js/e4/university24/kernel_landing_assets_0296773938e4a161482f99ee413de44a/kernel_landing_assets_0296773938e4a161482f99ee413de44a_v1.js?1642597588288270"></script>
-<script type="text/javascript">BX.setJSList(['/bitrix/js/main/core/core_window.js','/bitrix/js/main/session.js','/bitrix/js/main/core/core_fx.js','/bitrix/js/main/dd.js','/bitrix/js/main/date/main.date.js','/bitrix/js/main/core/core_date.js','/bitrix/js/main/core/core.js','/bitrix/js/landing/utils/utils.js','/bitrix/js/landing/mediaplayer/base_mediaplayer.js','/bitrix/js/landing/mediaplayer/youtube_mediaplayer.js','/bitrix/js/landing/mediaplayer/mediaplayer_factory.js','/bitrix/js/main/polyfill/intersectionobserver/js/intersectionobserver.js','/bitrix/js/landing/event-tracker/event-tracker.js','/bitrix/js/landing/event-tracker/services/base-service.js','/bitrix/js/landing/event-tracker/services/google-analytics-service.js','/bitrix/js/landing/polyfill.js','/bitrix/js/landing/events/block_event.js','/bitrix/js/landing/public.js','/bitrix/components/bitrix/landing.pub/templates/.default/script.js','/local/components/university/contacts.form/templates/.default/script.js','/local/templates/.default/static/js/global.js','/local/templates/.default/static/js/index.js','/local/templates/university24/js/script.js']); </script>
+<script type="text/javascript"  src="/bitrix/cache/js/e4/university24/kernel_landing_assets_0296773938e4a161482f99ee413de44a/kernel_landing_assets_0296773938e4a161482f99ee413de44a_v1.js?1643802036288270"></script>
+<script type="text/javascript">BX.setJSList(['/bitrix/js/main/core/core_window.js','/bitrix/js/main/core/core.js','/bitrix/js/landing/utils/utils.js','/bitrix/js/landing/mediaplayer/base_mediaplayer.js','/bitrix/js/landing/mediaplayer/youtube_mediaplayer.js','/bitrix/js/landing/mediaplayer/mediaplayer_factory.js','/bitrix/js/main/polyfill/intersectionobserver/js/intersectionobserver.js','/bitrix/js/landing/event-tracker/event-tracker.js','/bitrix/js/landing/event-tracker/services/base-service.js','/bitrix/js/landing/event-tracker/services/google-analytics-service.js','/bitrix/js/landing/polyfill.js','/bitrix/js/landing/events/block_event.js','/bitrix/js/landing/public.js','/bitrix/components/bitrix/landing.pub/templates/.default/script.js','/local/components/university/contacts.form/templates/.default/script.js','/local/templates/.default/static/js/global.js','/local/templates/.default/static/js/index.js','/local/templates/university24/js/script.js']); </script>
 <script type="text/javascript">BX.setCSSList(['/bitrix/js/main/core/css/core.css','/local/blocks/university/slider-one-card-dark/style.css','/local/blocks/university/video-two-videos/style.css','/local/blocks/university/university-team/style.css','/bitrix/js/landing/css/landing_public.css','/bitrix/components/bitrix/landing.pub/templates/.default/style.css','/local/templates/university24/css/landing24_editor.css','/local/templates/university24/css/custom_themes_core.min.css','/local/templates/.default/static/public/fonts/icons/style.css','/local/templates/.default/static/style/index.css','/local/templates/university24/template_styles.css']); </script>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="facebook-domain-verification" content="qyn2xlorvwh580bb4no8quluq02taf" />
@@ -91,8 +91,8 @@ var ALXerrorSendMessages={
 
 
 
-<script type="text/javascript"  src="/bitrix/cache/js/e4/university24/template_78c549f1283ad05b42ae892cfd905f39/template_78c549f1283ad05b42ae892cfd905f39_v1.js?16425078151076064"></script>
-<script type="text/javascript"  src="/bitrix/cache/js/e4/university24/page_c9f2ccd2060ea2b7a85ed23e6f66cab7/page_c9f2ccd2060ea2b7a85ed23e6f66cab7_v1.js?16425078154196"></script>
+<script type="text/javascript"  src="/bitrix/cache/js/e4/university24/template_78c549f1283ad05b42ae892cfd905f39/template_78c549f1283ad05b42ae892cfd905f39_v1.js?16438020361076064"></script>
+<script type="text/javascript"  src="/bitrix/cache/js/e4/university24/page_c9f2ccd2060ea2b7a85ed23e6f66cab7/page_c9f2ccd2060ea2b7a85ed23e6f66cab7_v1.js?16438020374196"></script>
 <script type="text/javascript" src="https://www.youtube.com/iframe_api"></script>
 <script type="text/javascript">var _ba = _ba || []; _ba.push(["aid", "485b12fc1f914dda537897b37b715cdf"]); _ba.push(["host", "alumni.innopolis.university"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
 
@@ -886,7 +886,7 @@ var ALXerrorSendMessages={
             <input type="hidden" class="js-contacts-description" value="" />
             <input type="hidden" class="js-analytics-event" value="" />
             <form class="contacts__contact-us" id="contacts__form" action="" method="POST">
-    <input type="hidden" name="sessid" id="sessid" value="131f690a07e6ecf65fb4a881cd05fd8b" />    <input type="hidden" name="check_bot" value="101">
+    <input type="hidden" name="sessid" id="sessid" value="b33da6ebe1bcf10280981e1a23679517" />    <input type="hidden" name="check_bot" value="101">
     <input type="hidden" name="action" value="contact_with_us">
     <input type="hidden" class="js-contants-email-to-input" name="email_to" value="">
     <input type="hidden" name="from" value="https://alumni.innopolis.university/">
@@ -954,103 +954,73 @@ var ALXerrorSendMessages={
 							<div class="landing-footer"><div id="block4553" class="block-wrapper block-footer-default"><div class="footer-container">
     <div class="footer-top-wrap">
         <div class="container">
+            <!--
             <a href="#" class="footer-top-link-dashed">Все медиа</a>
-            <div class="footer-top-link-list ">
-                <div class="footer-top-link-list__item">
+            -->
+            <div class="footer-top-link-list "><div class="footer-top-link-list__item">
                     <a href="https://www.facebook.com/innopolisU" class="footer-top-link" target="_popup" data-url="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FinnopolisU&tabs=timeline&width=340&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true">Facebook</a>
-                </div>
-                <div class="footer-top-link-list__item">
+                </div><div class="footer-top-link-list__item">
                     <a href="https://vk.com/innopolisu" class="footer-top-link" target="_blank">ВКонтакте</a>
-                </div>
-                <div class="footer-top-link-list__item">
+                </div><div class="footer-top-link-list__item">
                     <a href="https://www.youtube.com/user/InnopolisU" class="footer-top-link" target="_blank">YouTube</a>
-                </div>
-                
-                <div class="footer-top-link-list__item">
+                </div><div class="footer-top-link-list__item">
                     <a href="https://www.instagram.com/innopolisu/" class="footer-top-link" target="_blank">Instagram</a>
-                </div>
-                <div class="footer-top-link-list__item">
+                </div><div class="footer-top-link-list__item">
                     <a href="#" class="footer-top-link">habr</a>
-                </div>
-            </div>
+                </div></div>
         </div>
     </div>
     <div class="footer-bottom-wrap">
         <div class="container">
             <div class="footer-bottom-link__list-wrap footer-bottom-link__list-wrap_main">
                 <span class="footer-bottom-link__list-title"><i class="icon-ic_logo"></i></span>
-                <ul class="footer-bottom-link__list">
-                    <li class="footer-bottom-link__list-item"><a href="#" class="footer-bottom-link">Абитуриентам</a></li>
-                    <li class="footer-bottom-link__list-item"><a href="#" class="footer-bottom-link">Студентам </a></li>
-                    <li class="footer-bottom-link__list-item"><a href="#" class="footer-bottom-link">Выпускникам</a></li>
-                    <li class="footer-bottom-link__list-item"><a href="#" class="footer-bottom-link">Бизнесу</a></li>
-                    <li class="footer-bottom-link__list-item">
-                        <a href="#" class="footer-bottom-link">Об университете</a>
-                    </li>
-                    <li class="footer-bottom-link__list-item">
-                        <a href="#" class="footer-bottom-link">Академическое сотрудничество</a>
-                    </li>
-                    <li class="footer-bottom-link__list-item">
-                        <a href="#" class="footer-bottom-link">Проектная деятельность</a>
-                    </li>
-                    <li class="footer-bottom-link__list-item">
-                        <a href="#" class="footer-bottom-link">Научная деятельность</a>
-                    </li>
-                </ul>
+                <ul class="footer-bottom-link__list"><li class="footer-bottom-link__list-item"><a href="#" class="footer-bottom-link">Абитуриентам</a></li><li class="footer-bottom-link__list-item"><a href="#" class="footer-bottom-link">Студентам</a></li><li class="footer-bottom-link__list-item"><a href="#" class="footer-bottom-link">Выпускникам</a></li><li class="footer-bottom-link__list-item"><a href="#" class="footer-bottom-link">Бизнесу</a></li><li class="footer-bottom-link__list-item"><a href="#" class="footer-bottom-link">Об университете</a></li><li class="footer-bottom-link__list-item"><a href="#" class="footer-bottom-link">Академическое сотрудничество</a></li><li class="footer-bottom-link__list-item"><a href="#" class="footer-bottom-link">Проектная деятельность</a></li><li class="footer-bottom-link__list-item"><a href="#" class="footer-bottom-link">Научная деятельность</a></li></ul>
             </div>
             <div class="footer-bottom-link__list-wrap footer-bottom-link__list-wrap_contacts">
                 <span class="footer-bottom-link__list-title">Контакты</span>
-                <ul class="footer-bottom-link__list">
-                    <li class="footer-bottom-link__list-item">
+                <ul class="footer-bottom-link__list"><li class="footer-bottom-link__list-item">
                         <a href="#" class="footer-bottom-link">+7 (843) 203-92-53</a>
-                    </li>
-                    <li class="footer-bottom-link__list-item">
+                    </li><li class="footer-bottom-link__list-item">
                         <a href="#" class="footer-bottom-link">university@innopolis.ru</a>
-                    </li>
-                    <li class="footer-bottom-link__list-item">
+                    </li><li class="footer-bottom-link__list-item">
                         <a href="#" class="footer-bottom-link">420500, г. Иннополис ул.Университетская, д.1</a>
-                    </li>
-                    <li class="footer-bottom-link__list-item">
+                    </li><li class="footer-bottom-link__list-item">
                         <a href="#" class="footer-bottom-link">Приемная комиссия</a>
-                    </li>
-                    <li class="footer-bottom-link__list-item"><a href="#" class="footer-bottom-link">Вакансии</a></li>
-                    <li class="footer-bottom-link__list-item"><a href="#" class="footer-bottom-link">Все контакты</a></li>
-                    <li class="footer-bottom-link__list-item"><a href="#" class="footer-bottom-link">Как добраться</a></li>
-                </ul>
+                    </li><li class="footer-bottom-link__list-item">
+                        <a href="#" class="footer-bottom-link">Вакансии</a>
+                    </li><li class="footer-bottom-link__list-item">
+                        <a href="#" class="footer-bottom-link">Все контакты</a>
+                    </li><li class="footer-bottom-link__list-item">
+                        <a href="#" class="footer-bottom-link">Как добраться</a>
+                    </li></ul>
             </div>
 
             <div class="footer-bottom-link__list-wrap footer-bottom-link__list-wrap_press">
                 <span class="footer-bottom-link__list-title">Пресс-служба</span>
-                <ul class="footer-bottom-link__list">
-                    
-                    <li class="footer-bottom-link__list-item">
+                <ul class="footer-bottom-link__list"><li class="footer-bottom-link__list-item">
                         <a href="#" class="footer-bottom-link">pr@innopolis.ru</a>
-                    </li>
-                    <li class="footer-bottom-link__list-item"><a href="#" class="footer-bottom-link">Новости</a></li>
-                    <li class="footer-bottom-link__list-item"><a href="#" class="footer-bottom-link">Мероприятия</a></li>
-                    <li class="footer-bottom-link__list-item"><a href="#" class="footer-bottom-link">Все медиа</a></li>
-                </ul>
+                    </li><li class="footer-bottom-link__list-item">
+                        <a href="#" class="footer-bottom-link">Новости</a>
+                    </li><li class="footer-bottom-link__list-item">
+                        <a href="#" class="footer-bottom-link">Мероприятия</a>
+                    </li><li class="footer-bottom-link__list-item">
+                        <a href="#" class="footer-bottom-link">Все медиа</a>
+                    </li></ul>
             </div>
 
             <div class="footer-bottom-link__list-wrap footer-bottom-link__list-wrap_links">
                 <span class="footer-bottom-link__list-title">Полезные ссылки</span>
-                <ul class="footer-bottom-link__list">
-                    <li class="footer-bottom-link__list-item">
+                <ul class="footer-bottom-link__list"><li class="footer-bottom-link__list-item">
                         <a href="#" class="footer-bottom-link">Сведения об образовательной организации</a>
-                    </li>
-                    <li class="footer-bottom-link__list-item">
+                    </li><li class="footer-bottom-link__list-item">
                         <a href="#" class="footer-bottom-link">Министерство связи и массовых коммуникаций РФ</a>
-                    </li>
-                    <li class="footer-bottom-link__list-item">
+                    </li><li class="footer-bottom-link__list-item">
                         <a href="#" class="footer-bottom-link">Министерство образования и науки РФ</a>
-                    </li>
-                    <li class="footer-bottom-link__list-item">
+                    </li><li class="footer-bottom-link__list-item">
                         <a href="#" class="footer-bottom-link">Конкурс на замещение вакантных должностей ППС</a>
-                    </li>
-                    <li class="footer-bottom-link__list-item">
+                    </li><li class="footer-bottom-link__list-item">
                         <a href="#" class="footer-bottom-link">Политика конфиденциальности</a>
-                    </li>
-                </ul>
+                    </li></ul>
             </div>
         </div>
     </div>

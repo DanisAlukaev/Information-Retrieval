@@ -47,11 +47,11 @@
 <link href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900&display=swap&subset=cyrillic" type="text/css"  rel="stylesheet" />
 <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:100,200,300,400,500,600,700&display=swap&subset=cyrillic" type="text/css"  rel="stylesheet" />
 <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Mono:100,200,300,400,500,600,700&display=swap&subset=cyrillic" type="text/css"  rel="stylesheet" />
-<link href="/bitrix/cache/css/s7/university-en/kernel_sidepanel/kernel_sidepanel_v1.css?16425067876362" type="text/css"  rel="stylesheet" />
-<link href="/bitrix/cache/css/s7/university-en/kernel_landing_assets_ba58dd108e6a8b9b0de76865e7c245f8/kernel_landing_assets_ba58dd108e6a8b9b0de76865e7c245f8_v1.css?16425067873440" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/s7/university-en/kernel_sidepanel/kernel_sidepanel_v1.css?16438018476362" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/s7/university-en/kernel_landing_assets_ba58dd108e6a8b9b0de76865e7c245f8/kernel_landing_assets_ba58dd108e6a8b9b0de76865e7c245f8_v1.css?16438018473440" type="text/css"  rel="stylesheet" />
 <link href="/bitrix/js/altasib.errorsend/css/window.css?14605340164771" type="text/css"  rel="stylesheet" />
-<link href="/bitrix/cache/css/s7/university-en/page_bec53ceaa5197a37322c3b2b5a1de2b3/page_bec53ceaa5197a37322c3b2b5a1de2b3_v1.css?164253311010138" type="text/css"  rel="stylesheet" />
-<link href="/bitrix/cache/css/s7/university-en/template_71cceb7a7ba847e60737b02b87e62289/template_71cceb7a7ba847e60737b02b87e62289_v1.css?16425067871391972" type="text/css"  data-template-style="true" rel="stylesheet" />
+<link href="/bitrix/cache/css/s7/university-en/page_bec53ceaa5197a37322c3b2b5a1de2b3/page_bec53ceaa5197a37322c3b2b5a1de2b3_v1.css?164380654210138" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/s7/university-en/template_14c11fd1322da1513c55d715bf2f7ae8/template_14c11fd1322da1513c55d715bf2f7ae8_v1.css?16438018471303210" type="text/css"  data-template-style="true" rel="stylesheet" />
 <link href="/bitrix/panel/main/popup.min.css?146053375320704" type="text/css"  data-template-style="true"  rel="stylesheet" />
 <script type="text/javascript">if(!window.BX)window.BX={};if(!window.BX.message)window.BX.message=function(mess){if(typeof mess=='object') for(var i in mess) BX.message[i]=mess[i]; return true;};</script>
 <script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Loading...','JS_CORE_WINDOW_CLOSE':'Close','JS_CORE_WINDOW_EXPAND':'Expand','JS_CORE_WINDOW_NARROW':'Restore','JS_CORE_WINDOW_SAVE':'Save','JS_CORE_WINDOW_CANCEL':'Cancel','JS_CORE_H':'h','JS_CORE_M':'m','JS_CORE_S':'s','JS_CORE_NO_DATA':'- No data -','JSADM_AI_HIDE_EXTRA':'Hide extra items','JSADM_AI_ALL_NOTIF':'All notifications','JSADM_AUTH_REQ':'Authentication is required!','JS_CORE_WINDOW_AUTH':'Log In','JS_CORE_IMAGE_FULL':'Full size','JS_CORE_WINDOW_CONTINUE':'Continue'});</script>
@@ -62,13 +62,13 @@
 BX.setCSSList(['/bitrix/js/main/lazyload/dist/lazyload.bundle.css','/bitrix/js/main/parambag/dist/parambag.bundle.css']);</script>
 <script type="text/javascript">(window.BX||top.BX).message({'MAIN_SIDEPANEL_CLOSE':'Close','MAIN_SIDEPANEL_PRINT':'Print'});</script>
 <script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Loading...','JS_CORE_WINDOW_CLOSE':'Close','JS_CORE_WINDOW_EXPAND':'Expand','JS_CORE_WINDOW_NARROW':'Restore','JS_CORE_WINDOW_SAVE':'Save','JS_CORE_WINDOW_CANCEL':'Cancel','JS_CORE_H':'h','JS_CORE_M':'m','JS_CORE_S':'s','JS_CORE_NO_DATA':'- No data -','JSADM_AI_HIDE_EXTRA':'Hide extra items','JSADM_AI_ALL_NOTIF':'All notifications','JSADM_AUTH_REQ':'Authentication is required!','JS_CORE_WINDOW_AUTH':'Log In','JS_CORE_IMAGE_FULL':'Full size','JS_CORE_WINDOW_CONTINUE':'Continue'});</script>
-<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'en','FORMAT_DATE':'MM/DD/YYYY','FORMAT_DATETIME':'MM/DD/YYYY H:MI:SS T','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'10800','SITE_ID':'s7','SITE_DIR':'/en/','USER_ID':'','SERVER_TIME':'1643786784','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'cf2f6947788cb7ee4ad37393f4c8a8bc'});</script>
+<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'en','FORMAT_DATE':'MM/DD/YYYY','FORMAT_DATETIME':'MM/DD/YYYY H:MI:SS T','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'10800','SITE_ID':'s7','SITE_DIR':'/en/','USER_ID':'','SERVER_TIME':'1644146477','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'f1a812eea6be73d52f6ae69bf746f657'});</script>
 
 
-<script type="text/javascript"  src="/bitrix/cache/js/s7/university-en/kernel_main/kernel_main_v1.js?164250678786317"></script>
+<script type="text/javascript"  src="/bitrix/cache/js/s7/university-en/kernel_main/kernel_main_v1.js?164380184786317"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-<script type="text/javascript"  src="/bitrix/cache/js/s7/university-en/kernel_sidepanel/kernel_sidepanel_v1.js?164250678743894"></script>
-<script type="text/javascript"  src="/bitrix/cache/js/s7/university-en/kernel_landing_assets_ba58dd108e6a8b9b0de76865e7c245f8/kernel_landing_assets_ba58dd108e6a8b9b0de76865e7c245f8_v1.js?1642506787288270"></script>
+<script type="text/javascript"  src="/bitrix/cache/js/s7/university-en/kernel_sidepanel/kernel_sidepanel_v1.js?164380184743894"></script>
+<script type="text/javascript"  src="/bitrix/cache/js/s7/university-en/kernel_landing_assets_ba58dd108e6a8b9b0de76865e7c245f8/kernel_landing_assets_ba58dd108e6a8b9b0de76865e7c245f8_v1.js?1643801847288270"></script>
 <script type="text/javascript">BX.setJSList(['/bitrix/js/main/core/core_fx.js','/bitrix/js/main/core/core_window.js','/bitrix/js/main/sidepanel/manager.js','/bitrix/js/main/sidepanel/slider.js','/bitrix/js/main/core/core.js','/bitrix/js/landing/utils/utils.js','/bitrix/js/landing/mediaplayer/base_mediaplayer.js','/bitrix/js/landing/mediaplayer/youtube_mediaplayer.js','/bitrix/js/landing/mediaplayer/mediaplayer_factory.js','/bitrix/js/main/polyfill/intersectionobserver/js/intersectionobserver.js','/bitrix/js/landing/event-tracker/event-tracker.js','/bitrix/js/landing/event-tracker/services/base-service.js','/bitrix/js/landing/event-tracker/services/google-analytics-service.js','/bitrix/js/landing/polyfill.js','/bitrix/js/landing/events/block_event.js','/bitrix/js/landing/public.js','/local/templates/.default/components/bitrix/news/events-page/bitrix/news.list/.default/script.js','/bitrix/components/innova/instagram/lib/min/ts-innova-instagram.js','/bitrix/components/innova/instagram/lib/ElementQueries.js','/bitrix/components/innova/instagram/lib/ResizeSensor.js','/bitrix/components/innova/instagram/lib/isotope.pkgd.min.js','/bitrix/components/innova/instagram/lib/wa-mediabox.min.js','/local/components/university/youtube.top/templates/.default/script.js','/local/templates/.default/static/js/global.js','/local/templates/.default/static/js/index.js','/local/templates/university24/js/script.js','/bitrix/components/bitrix/landing.pub/templates/.default/script.js']); </script>
 <script type="text/javascript">BX.setCSSList(['/bitrix/js/main/sidepanel/css/sidepanel.css','/bitrix/js/main/core/css/core.css','/bitrix/js/landing/css/landing_public.css','/bitrix/components/innova/instagram/lib/ts-innova-instagram.css','/bitrix/components/innova/instagram/lib/wa-mediabox.min.css','/local/templates/university24/css/landing24_editor.css','/local/templates/university24/css/custom_themes_core.min.css','/local/templates/.default/static/public/fonts/icons/style.css','/local/templates/.default/static/style/index.css','/bitrix/components/bitrix/landing.pub/templates/.default/style.css','/local/templates/university-en/template_styles.css']); </script>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -95,8 +95,8 @@ var ALXerrorSendMessages={
 
 
 
-<script type="text/javascript"  src="/bitrix/cache/js/s7/university-en/template_87c52879fb299b6d82588c8ab71e37fe/template_87c52879fb299b6d82588c8ab71e37fe_v1.js?16425067871078134"></script>
-<script type="text/javascript"  src="/bitrix/cache/js/s7/university-en/page_2437156f3456b1016236975e01418c7b/page_2437156f3456b1016236975e01418c7b_v1.js?1642533110118078"></script>
+<script type="text/javascript"  src="/bitrix/cache/js/s7/university-en/template_87c52879fb299b6d82588c8ab71e37fe/template_87c52879fb299b6d82588c8ab71e37fe_v1.js?16438018471078134"></script>
+<script type="text/javascript"  src="/bitrix/cache/js/s7/university-en/page_2437156f3456b1016236975e01418c7b/page_2437156f3456b1016236975e01418c7b_v1.js?1643806542118078"></script>
 <script type="text/javascript" src="https://www.youtube.com/iframe_api"></script>
 <script type="text/javascript" src="https://www.youtube.com/iframe_api"></script>
 <script type="text/javascript">var _ba = _ba || []; _ba.push(["aid", "485b12fc1f914dda537897b37b715cdf"]); _ba.push(["host", "media.innopolis.university"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
@@ -235,7 +235,9 @@ var ALXerrorSendMessages={
 </div><div class="landing-main" data-site="2" data-landing="57"><div id="block956" class="block-wrapper block-footer-default"><div class="footer-container">
     <div class="footer-top-wrap">
         <div class="container">
-            <a href="https://university.innopolis.ru/en/news/" class="footer-top-link-dashed" target="_self">Media</a>
+            <!--
+            <a href="#" class="footer-top-link-dashed">Все медиа</a>
+            -->
             <div class="footer-top-link-list "><div class="footer-top-link-list__item">
                     <a href="https://www.facebook.com/InnopolisU" class="footer-top-link" target="_blank" data-url="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FInnopolisU&tabs=timeline&width=340&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true">Facebook</a>
                 </div><div class="footer-top-link-list__item">

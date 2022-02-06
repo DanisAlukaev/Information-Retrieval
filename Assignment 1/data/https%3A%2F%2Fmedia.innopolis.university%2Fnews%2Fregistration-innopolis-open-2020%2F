@@ -47,9 +47,9 @@
 <link href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900&display=swap&subset=cyrillic" type="text/css"  rel="stylesheet" />
 <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:100,200,300,400,500,600,700&display=swap&subset=cyrillic" type="text/css"  rel="stylesheet" />
 <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Mono:100,200,300,400,500,600,700&display=swap&subset=cyrillic" type="text/css"  rel="stylesheet" />
-<link href="/bitrix/cache/css/s5/university/kernel_landing_assets_a9ada22125cb41fd027905bb42ab019f/kernel_landing_assets_a9ada22125cb41fd027905bb42ab019f_v1.css?16425066983440" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/s5/university/kernel_landing_assets_a9ada22125cb41fd027905bb42ab019f/kernel_landing_assets_a9ada22125cb41fd027905bb42ab019f_v1.css?16438018633440" type="text/css"  rel="stylesheet" />
 <link href="/bitrix/js/altasib.errorsend/css/window.css?14605340164771" type="text/css"  rel="stylesheet" />
-<link href="/bitrix/cache/css/s5/university/template_5a1c334e05b4e072a5220980529f3941/template_5a1c334e05b4e072a5220980529f3941_v1.css?16425066981392139" type="text/css"  data-template-style="true" rel="stylesheet" />
+<link href="/bitrix/cache/css/s5/university/template_4e37091b988b21787f209c71d7a53a81/template_4e37091b988b21787f209c71d7a53a81_v1.css?16438018431303377" type="text/css"  data-template-style="true" rel="stylesheet" />
 <link href="/bitrix/panel/main/popup.min.css?146053375320704" type="text/css"  data-template-style="true"  rel="stylesheet" />
 <script type="text/javascript">if(!window.BX)window.BX={};if(!window.BX.message)window.BX.message=function(mess){if(typeof mess=='object') for(var i in mess) BX.message[i]=mess[i]; return true;};</script>
 <script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_WINDOW_CONTINUE':'Продолжить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script>
@@ -59,13 +59,13 @@
 <script>BX.setJSList(['/bitrix/js/main/core/core_ajax.js','/bitrix/js/main/core/core_promise.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/loadext/loadext.js','/bitrix/js/main/loadext/extension.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/includes/js/includes.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/ui/polyfill/closest/js/closest.js','/bitrix/js/main/polyfill/fill/main.polyfill.fill.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/lazyload/dist/lazyload.bundle.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/parambag/dist/parambag.bundle.js']);
 BX.setCSSList(['/bitrix/js/main/lazyload/dist/lazyload.bundle.css','/bitrix/js/main/parambag/dist/parambag.bundle.css']);</script>
 <script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_WINDOW_CONTINUE':'Продолжить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script>
-<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'10800','SITE_ID':'s5','SITE_DIR':'/','USER_ID':'','SERVER_TIME':'1643786605','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'a734b62f5b8b9725a6990297b675aeaa'});</script>
+<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'10800','SITE_ID':'s5','SITE_DIR':'/','USER_ID':'','SERVER_TIME':'1644146467','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'0e62d89423db843a0c1c70827d1ae15f'});</script>
 
 
-<script type="text/javascript"  src="/bitrix/cache/js/s5/university/kernel_main/kernel_main_v1.js?164250672086317"></script>
+<script type="text/javascript"  src="/bitrix/cache/js/s5/university/kernel_main/kernel_main_v1.js?164380184386317"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-<script type="text/javascript"  src="/bitrix/cache/js/s5/university/kernel_landing_assets_a9ada22125cb41fd027905bb42ab019f/kernel_landing_assets_a9ada22125cb41fd027905bb42ab019f_v1.js?1642506698288270"></script>
-<script type="text/javascript">BX.setJSList(['/bitrix/js/main/core/core_window.js','/bitrix/js/main/core/core_fx.js','/bitrix/js/main/core/core.js','/bitrix/js/landing/utils/utils.js','/bitrix/js/landing/mediaplayer/base_mediaplayer.js','/bitrix/js/landing/mediaplayer/youtube_mediaplayer.js','/bitrix/js/landing/mediaplayer/mediaplayer_factory.js','/bitrix/js/main/polyfill/intersectionobserver/js/intersectionobserver.js','/bitrix/js/landing/event-tracker/event-tracker.js','/bitrix/js/landing/event-tracker/services/base-service.js','/bitrix/js/landing/event-tracker/services/google-analytics-service.js','/bitrix/js/landing/polyfill.js','/bitrix/js/landing/events/block_event.js','/bitrix/js/landing/public.js','/local/templates/.default/static/js/global.js','/local/templates/.default/static/js/index.js','/local/templates/university24/js/script.js','/bitrix/components/bitrix/landing.pub/templates/.default/script.js']); </script>
+<script type="text/javascript"  src="/bitrix/cache/js/s5/university/kernel_landing_assets_a9ada22125cb41fd027905bb42ab019f/kernel_landing_assets_a9ada22125cb41fd027905bb42ab019f_v1.js?1643801863288270"></script>
+<script type="text/javascript">BX.setJSList(['/bitrix/js/main/core/core_fx.js','/bitrix/js/main/core/core_window.js','/bitrix/js/main/core/core.js','/bitrix/js/landing/utils/utils.js','/bitrix/js/landing/mediaplayer/base_mediaplayer.js','/bitrix/js/landing/mediaplayer/youtube_mediaplayer.js','/bitrix/js/landing/mediaplayer/mediaplayer_factory.js','/bitrix/js/main/polyfill/intersectionobserver/js/intersectionobserver.js','/bitrix/js/landing/event-tracker/event-tracker.js','/bitrix/js/landing/event-tracker/services/base-service.js','/bitrix/js/landing/event-tracker/services/google-analytics-service.js','/bitrix/js/landing/polyfill.js','/bitrix/js/landing/events/block_event.js','/bitrix/js/landing/public.js','/local/templates/.default/static/js/global.js','/local/templates/.default/static/js/index.js','/local/templates/university24/js/script.js','/bitrix/components/bitrix/landing.pub/templates/.default/script.js']); </script>
 <script type="text/javascript">BX.setCSSList(['/bitrix/js/main/core/css/core.css','/bitrix/js/landing/css/landing_public.css','/local/templates/university24/css/landing24_editor.css','/local/templates/university24/css/custom_themes_core.min.css','/local/templates/.default/static/public/fonts/icons/style.css','/local/templates/.default/static/style/index.css','/bitrix/components/bitrix/landing.pub/templates/.default/style.css','/local/templates/university/template_styles.css']); </script>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="facebook-domain-verification" content="qyn2xlorvwh580bb4no8quluq02taf" />
@@ -106,7 +106,7 @@ var ALXerrorSendMessages={
 
 
 
-<script type="text/javascript"  src="/bitrix/cache/js/s5/university/template_87c52879fb299b6d82588c8ab71e37fe/template_87c52879fb299b6d82588c8ab71e37fe_v1.js?16425066981078134"></script>
+<script type="text/javascript"  src="/bitrix/cache/js/s5/university/template_87c52879fb299b6d82588c8ab71e37fe/template_87c52879fb299b6d82588c8ab71e37fe_v1.js?16438018431078134"></script>
 <script type="text/javascript" src="https://www.youtube.com/iframe_api"></script>
 <script type="text/javascript">var _ba = _ba || []; _ba.push(["aid", "485b12fc1f914dda537897b37b715cdf"]); _ba.push(["host", "media.innopolis.university"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
 
@@ -298,11 +298,13 @@ var ALXerrorSendMessages={
 							<div class="landing-footer"><div id="block954" class="block-wrapper block-footer-default"><div class="footer-container g-bg-blue">
     <div class="footer-top-wrap">
         <div class="container">
-            <a href="https://innopolis.university/oblast22/#block954" class="footer-top-link-dashed" target="_self">&nbsp;</a>
+            <!--
+            <a href="#" class="footer-top-link-dashed">Все медиа</a>
+            -->
             <div class="footer-top-link-list "><div class="footer-top-link-list__item">
                     <a href="https://www.facebook.com/innopolisU" class="footer-top-link" target="_popup" data-url="https://www.facebook.com/plugins/page.php?href=https://www.facebook.com/InnopolisU&tabs=timeline&width=340&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true">Facebook</a>
-                </div><div class="footer-top-link-list__item landing-card">
-                    <a href="https://vk.com/innopolisu" class="footer-top-link" target="_blank" data-selector=".footer-top-link@1" title="Нажмите, чтобы отредактировать кнопку">ВКонтакте</a>
+                </div><div class="footer-top-link-list__item">
+                    <a href="https://vk.com/innopolisu" class="footer-top-link" target="_blank">ВКонтакте</a>
                 </div><div class="footer-top-link-list__item">
                     <a href="https://www.youtube.com/user/InnopolisU" class="footer-top-link" target="_blank">YouTube</a>
                 </div><div class="footer-top-link-list__item">

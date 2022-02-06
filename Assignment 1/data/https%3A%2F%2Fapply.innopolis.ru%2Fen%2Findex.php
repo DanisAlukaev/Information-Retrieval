@@ -83,10 +83,10 @@
 <link href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900&display=swap&subset=cyrillic" type="text/css"  rel="stylesheet" />
 <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:100,200,300,400,500,600,700&display=swap&subset=cyrillic" type="text/css"  rel="stylesheet" />
 <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Mono:100,200,300,400,500,600,700&display=swap&subset=cyrillic" type="text/css"  rel="stylesheet" />
-<link href="/bitrix/cache/css/s4/university24/kernel_landing_assets_854bc80725dd7e63122abe5a7506d26d/kernel_landing_assets_854bc80725dd7e63122abe5a7506d26d_v1.css?16425066613440" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/s4/university24/kernel_landing_assets_854bc80725dd7e63122abe5a7506d26d/kernel_landing_assets_854bc80725dd7e63122abe5a7506d26d_v1.css?16438019073440" type="text/css"  rel="stylesheet" />
 <link href="/bitrix/js/altasib.errorsend/css/window.css?14605340164771" type="text/css"  rel="stylesheet" />
-<link href="/bitrix/cache/css/s4/university24/page_a8b9cc66b3d20d2e05bcfe297554eca1/page_a8b9cc66b3d20d2e05bcfe297554eca1_v1.css?164250663337876" type="text/css"  rel="stylesheet" />
-<link href="/bitrix/cache/css/s4/university24/template_2fcb2df936238e48a9db6a26e52e97eb/template_2fcb2df936238e48a9db6a26e52e97eb_v1.css?16425066331359307" type="text/css"  data-template-style="true" rel="stylesheet" />
+<link href="/bitrix/cache/css/s4/university24/page_a8b9cc66b3d20d2e05bcfe297554eca1/page_a8b9cc66b3d20d2e05bcfe297554eca1_v1.css?164380184237876" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/s4/university24/template_482d2f2e5b0a6cab37957f3a169e8ad6/template_482d2f2e5b0a6cab37957f3a169e8ad6_v1.css?16438018421270545" type="text/css"  data-template-style="true" rel="stylesheet" />
 <link href="/bitrix/panel/main/popup.min.css?146053375320704" type="text/css"  data-template-style="true"  rel="stylesheet" />
 <script type="text/javascript">if(!window.BX)window.BX={};if(!window.BX.message)window.BX.message=function(mess){if(typeof mess=='object') for(var i in mess) BX.message[i]=mess[i]; return true;};</script>
 <script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_WINDOW_CONTINUE':'Продолжить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script>
@@ -96,13 +96,13 @@
 <script>BX.setJSList(['/bitrix/js/main/core/core_ajax.js','/bitrix/js/main/core/core_promise.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/loadext/loadext.js','/bitrix/js/main/loadext/extension.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/includes/js/includes.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/ui/polyfill/closest/js/closest.js','/bitrix/js/main/polyfill/fill/main.polyfill.fill.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/lazyload/dist/lazyload.bundle.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/parambag/dist/parambag.bundle.js']);
 BX.setCSSList(['/bitrix/js/main/lazyload/dist/lazyload.bundle.css','/bitrix/js/main/parambag/dist/parambag.bundle.css']);</script>
 <script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_WINDOW_CONTINUE':'Продолжить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script>
-<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'10800','SITE_ID':'s4','SITE_DIR':'/','USER_ID':'','SERVER_TIME':'1643786780','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'eb39fe25bf436aae7225bf02fd7c54f5'});</script>
+<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'10800','SITE_ID':'s4','SITE_DIR':'/','USER_ID':'','SERVER_TIME':'1644146472','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'377bec09b08b58519b937f559c1b68a1'});</script>
 
 
-<script type="text/javascript"  src="/bitrix/cache/js/s4/university24/kernel_main/kernel_main_v1.js?1642577700142325"></script>
+<script type="text/javascript"  src="/bitrix/cache/js/s4/university24/kernel_main/kernel_main_v1.js?164380184276265"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-<script type="text/javascript"  src="/bitrix/cache/js/s4/university24/kernel_landing_assets_854bc80725dd7e63122abe5a7506d26d/kernel_landing_assets_854bc80725dd7e63122abe5a7506d26d_v1.js?1642506661288999"></script>
-<script type="text/javascript">BX.setJSList(['/bitrix/js/main/core/core_window.js','/bitrix/js/main/session.js','/bitrix/js/main/core/core_fx.js','/bitrix/js/main/dd.js','/bitrix/js/main/date/main.date.js','/bitrix/js/main/core/core_date.js','/bitrix/js/main/core/core.js','/bitrix/js/landing/utils/utils.js','/bitrix/js/landing/mediaplayer/base_mediaplayer.js','/bitrix/js/landing/mediaplayer/youtube_mediaplayer.js','/bitrix/js/landing/mediaplayer/mediaplayer_factory.js','/bitrix/js/main/polyfill/intersectionobserver/js/intersectionobserver.js','/local/blocks/university/tabs/script.js','/bitrix/js/landing/event-tracker/event-tracker.js','/bitrix/js/landing/event-tracker/services/base-service.js','/bitrix/js/landing/event-tracker/services/google-analytics-service.js','/bitrix/js/landing/polyfill.js','/bitrix/js/landing/events/block_event.js','/bitrix/js/landing/public.js','/bitrix/components/bitrix/landing.pub/templates/.default/script.js','/local/templates/.default/components/bitrix/system.pagenavigation/show_more/script.js','/local/components/university/contacts.question.form/templates/.default/script.js','/local/templates/.default/static/js/global.js','/local/templates/.default/static/js/index.js','/local/templates/university24/js/script.js']); </script>
+<script type="text/javascript"  src="/bitrix/cache/js/s4/university24/kernel_landing_assets_854bc80725dd7e63122abe5a7506d26d/kernel_landing_assets_854bc80725dd7e63122abe5a7506d26d_v1.js?1643801907288999"></script>
+<script type="text/javascript">BX.setJSList(['/bitrix/js/main/core/core_window.js','/bitrix/js/main/core/core.js','/bitrix/js/landing/utils/utils.js','/bitrix/js/landing/mediaplayer/base_mediaplayer.js','/bitrix/js/landing/mediaplayer/youtube_mediaplayer.js','/bitrix/js/landing/mediaplayer/mediaplayer_factory.js','/bitrix/js/main/polyfill/intersectionobserver/js/intersectionobserver.js','/local/blocks/university/tabs/script.js','/bitrix/js/landing/event-tracker/event-tracker.js','/bitrix/js/landing/event-tracker/services/base-service.js','/bitrix/js/landing/event-tracker/services/google-analytics-service.js','/bitrix/js/landing/polyfill.js','/bitrix/js/landing/events/block_event.js','/bitrix/js/landing/public.js','/bitrix/components/bitrix/landing.pub/templates/.default/script.js','/local/templates/.default/components/bitrix/system.pagenavigation/show_more/script.js','/local/components/university/contacts.question.form/templates/.default/script.js','/local/templates/.default/static/js/global.js','/local/templates/.default/static/js/index.js','/local/templates/university24/js/script.js']); </script>
 <script type="text/javascript">BX.setCSSList(['/bitrix/js/main/core/css/core.css','/bitrix/js/landing/css/landing_public.css','/bitrix/components/bitrix/landing.pub/templates/.default/style.css','/local/templates/.default/components/bitrix/system.pagenavigation/show_more/style.css','/local/templates/.default/components/bitrix/news.list/center-news/style.css','/local/templates/university24/css/landing24_editor.css','/local/templates/university24/css/custom_themes_core.min.css','/local/templates/.default/static/public/fonts/icons/style.css','/local/templates/.default/static/style/index.css','/local/templates/university24/template_styles.css']); </script>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="facebook-domain-verification" content="qyn2xlorvwh580bb4no8quluq02taf" />
@@ -127,8 +127,8 @@ var ALXerrorSendMessages={
 
 
 
-<script type="text/javascript"  src="/bitrix/cache/js/s4/university24/template_78c549f1283ad05b42ae892cfd905f39/template_78c549f1283ad05b42ae892cfd905f39_v1.js?16425066331076064"></script>
-<script type="text/javascript"  src="/bitrix/cache/js/s4/university24/page_cfae4d80b882ba55b7acdff82125ad9b/page_cfae4d80b882ba55b7acdff82125ad9b_v1.js?16425066615947"></script>
+<script type="text/javascript"  src="/bitrix/cache/js/s4/university24/template_78c549f1283ad05b42ae892cfd905f39/template_78c549f1283ad05b42ae892cfd905f39_v1.js?16438018421076064"></script>
+<script type="text/javascript"  src="/bitrix/cache/js/s4/university24/page_cfae4d80b882ba55b7acdff82125ad9b/page_cfae4d80b882ba55b7acdff82125ad9b_v1.js?16438019075947"></script>
 <script type="text/javascript" src="https://www.youtube.com/iframe_api"></script>
 <script type="text/javascript">var _ba = _ba || []; _ba.push(["aid", "485b12fc1f914dda537897b37b715cdf"]); _ba.push(["host", "apply.innopolis.university"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
 
@@ -951,6 +951,19 @@ var ALXerrorSendMessages={
         <h2 class="uni-main__news-title">Новости</h2>
 
         <div class="uni-main__news-row news-list">
+                    <a href="https://media.innopolis.university/news/startoval-nabor-na-vesennie-intensivy-po-programmirovaniyu-i-podgotovke-k-ege/" class="uni-main__news-bottom news-item" id="bx_3218110189_137936">
+            <img src="/upload/resize_cache/iblock/f89/500_335_2/IMG_2242.JPG" alt="">
+            <p class="uni-main__news-bottom-date">03.02.2022</p>
+            <p class="uni-main__news-bottom-title">Стартовал набор на весенние интенсивы по программированию и подготовке к ЕГЭ</p>
+            <div class="uni-main__news-bottom__info">
+                <p class="uni-main__news-bottom-text">
+	 С 26 марта по 2 апреля специалисты Центра подготовки и привлечения абитуриентов Университета Иннополис проведут онлайн-интенсивы по программированию для учащихся 7–11 классов, а также помогут старшеклассникам подготовиться к ЕГЭ по математике и информатике.
+</p>
+                <span class="uni-main__news-bottom__btn icon-ic_arrow">
+                    Читать
+                </span>
+            </div>
+        </a>
                     <a href="https://media.innopolis.university/news/grant-na-obuchenie-v-universitete-innopolis-detali-konkursnogo-otbora/" class="uni-main__news-bottom news-item" id="bx_3218110189_135704">
             <img src="/upload/resize_cache/iblock/246/500_335_2/image1.jpg" alt="">
             <p class="uni-main__news-bottom-date">20.01.2022</p>
@@ -973,24 +986,11 @@ var ALXerrorSendMessages={
                 </span>
             </div>
         </a>
-                    <a href="https://media.innopolis.university/news/universitet-innopolis-kak-ustroen-spetsializirovannyy-it-vuz/" class="uni-main__news-bottom news-item" id="bx_3218110189_133075">
-            <img src="/upload/resize_cache/iblock/898/500_335_2/IMG_7530.JPG" alt="">
-            <p class="uni-main__news-bottom-date">28.12.2021</p>
-            <p class="uni-main__news-bottom-title">Университет Иннополис: как устроен специализированный IT-вуз</p>
-            <div class="uni-main__news-bottom__info">
-                <p class="uni-main__news-bottom-text">Образовательный форум «Навигатор поступления» поговорил с руководителем Отдела коммуникаций с абитуриентами Любовью Пантелеевой об Университете Иннополис, как проходит грантовый конкурс и что ждет студентов ИТ-вуза.
- 
- </p>
-                <span class="uni-main__news-bottom__btn icon-ic_arrow">
-                    Читать
-                </span>
-            </div>
-        </a>
     </div>
 
 <!--'start_frame_cache_sbEmYq'-->
 
-                    <div class="load_more show-uni-news__wrap" data-url="/?PAGEN_1=2">
+                    <div class="load_more show-uni-news__wrap" data-url="/bachelor/?PAGEN_1=2">
             <div class="show-uni-news__link">
                 <span class="show-uni-news__link-text">Еще новости</span> <i class="icon-ic_arrow"></i>
             </div>
@@ -1014,7 +1014,7 @@ var ALXerrorSendMessages={
             <input type="hidden" class="js-contacts-description" value="" />
             <input type="hidden" class="js-analytics-event" value="" />
             <form class="contacts__contact-us" id="contacts__form" action="" method="POST">
-    <input type="hidden" name="sessid" id="sessid" value="eb39fe25bf436aae7225bf02fd7c54f5" />    <input type="hidden" name="check_bot" value="101">
+    <input type="hidden" name="sessid" id="sessid" value="377bec09b08b58519b937f559c1b68a1" />    <input type="hidden" name="check_bot" value="101">
     <input type="hidden" name="action" value="contact_with_us">
     <input type="hidden" class="js-contants-email-to-input" name="email_to" value="">
     <input type="hidden" name="from" value="https://apply.innopolis.university/">
@@ -1048,7 +1048,9 @@ var ALXerrorSendMessages={
 							<div class="landing-footer"><div id="block5424" class="block-wrapper block-footer-default"><div class="footer-container">
     <div class="footer-top-wrap">
         <div class="container">
-            <a href="https://media.innopolis.university/" class="footer-top-link-dashed" target="_blank">Все медиа</a>
+            <!--
+            <a href="#" class="footer-top-link-dashed">Все медиа</a>
+            -->
             <div class="footer-top-link-list "><div class="footer-top-link-list__item">
                     <a href="https://www.facebook.com/AdmissionIU" class="footer-top-link" target="_popup" data-url="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FAdmissionIU&tabs=timeline&width=340&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true">Facebook</a>
                 </div><div class="footer-top-link-list__item">
@@ -1064,15 +1066,7 @@ var ALXerrorSendMessages={
         <div class="container">
             <div class="footer-bottom-link__list-wrap footer-bottom-link__list-wrap_main">
                 <span class="footer-bottom-link__list-title"><i class="icon-ic_logo"></i></span>
-                <ul class="footer-bottom-link__list"><li class="footer-bottom-link__list-item"><a href="https://apply.innopolis.university/" class="footer-bottom-link" target="_blank">Абитуриентам</a></li><li class="footer-bottom-link__list-item"><a href="https://corporate.innopolis.university/" class="footer-bottom-link" target="_blank">Бизнесу</a></li><li class="footer-bottom-link__list-item">
-                        <a href="https://innopolis.university/about/" class="footer-bottom-link" target="_blank">Об университете</a>
-                    </li><li class="footer-bottom-link__list-item">
-                        <a href="https://career.innopolis.university/job" class="footer-bottom-link" target="_blank">Вакансии</a>
-                    </li><li class="footer-bottom-link__list-item">
-                        <a href="https://innopolis.university/proekty/activity/" class="footer-bottom-link" target="_blank">Проектная деятельность</a>
-                    </li><li class="footer-bottom-link__list-item">
-                        <a href="https://iustore.innopolis.ru/" class="footer-bottom-link" target="_blank">Мерч УИ</a>
-                    </li></ul>
+                <ul class="footer-bottom-link__list"><li class="footer-bottom-link__list-item"><a href="https://apply.innopolis.university/" class="footer-bottom-link" target="_blank">Абитуриентам</a></li><li class="footer-bottom-link__list-item"><a href="https://corporate.innopolis.university/" class="footer-bottom-link" target="_blank">Бизнесу</a></li><li class="footer-bottom-link__list-item"><a href="https://innopolis.university/about/" class="footer-bottom-link" target="_blank">Об университете</a></li><li class="footer-bottom-link__list-item"><a href="https://career.innopolis.university/job" class="footer-bottom-link" target="_blank">Вакансии</a></li><li class="footer-bottom-link__list-item"><a href="https://innopolis.university/proekty/activity/" class="footer-bottom-link" target="_blank">Проектная деятельность</a></li><li class="footer-bottom-link__list-item"><a href="https://iustore.innopolis.ru/" class="footer-bottom-link" target="_blank">Мерч УИ</a></li></ul>
             </div>
             <div class="footer-bottom-link__list-wrap footer-bottom-link__list-wrap_contacts">
                 <span class="footer-bottom-link__list-title">Контакты</span>
@@ -1082,18 +1076,28 @@ var ALXerrorSendMessages={
                         <a href="mailto:university@innopolis.ru" class="footer-bottom-link" target="_blank">university@innopolis.ru</a>
                     </li><li class="footer-bottom-link__list-item">
                         <a href="#" class="footer-bottom-link" target="_self">420500, г. Иннополис ул.Университетская, д.1</a>
-                    </li><li class="footer-bottom-link__list-item"><a href="https://innopolis.com/city/how-to-get/" class="footer-bottom-link" target="_blank">Как добраться</a></li><li class="footer-bottom-link__list-item">
+                    </li><li class="footer-bottom-link__list-item">
+                        <a href="https://innopolis.com/city/how-to-get/" class="footer-bottom-link" target="_blank">Как добраться</a>
+                    </li><li class="footer-bottom-link__list-item">
                         <a href="tel:+7 (937) 586-43-17" class="footer-bottom-link" target="_blank">Научный отдел +7 (937) 586-43-17</a>
                     </li><li class="footer-bottom-link__list-item">
                         <a href="https://panoroo.com/virtual-tours/NvQZM6B2" class="footer-bottom-link" target="_blank">Виртуальная экскурсия</a>
-                    </li><li class="footer-bottom-link__list-item"><a href="https://innopolis.university/contacts/" class="footer-bottom-link" target="_blank">Ещё контакты</a></li></ul>
+                    </li><li class="footer-bottom-link__list-item">
+                        <a href="https://innopolis.university/contacts/" class="footer-bottom-link" target="_blank">Ещё контакты</a>
+                    </li></ul>
             </div>
 
             <div class="footer-bottom-link__list-wrap footer-bottom-link__list-wrap_press">
                 <span class="footer-bottom-link__list-title">Пресс-служба</span>
                 <ul class="footer-bottom-link__list"><li class="footer-bottom-link__list-item">
                         <a href="mailto:pr@innopolis.ru" class="footer-bottom-link" target="_blank">pr@innopolis.ru</a>
-                    </li><li class="footer-bottom-link__list-item"><a href="https://media.innopolis.university/" class="footer-bottom-link" target="_blank">Новости</a></li><li class="footer-bottom-link__list-item"><a href="https://media.innopolis.university/events/" class="footer-bottom-link" target="_blank">Мероприятия</a></li><li class="footer-bottom-link__list-item"><a href="https://media.innopolis.university/" class="footer-bottom-link" target="_blank">Все медиа</a></li></ul>
+                    </li><li class="footer-bottom-link__list-item">
+                        <a href="https://media.innopolis.university/" class="footer-bottom-link" target="_blank">Новости</a>
+                    </li><li class="footer-bottom-link__list-item">
+                        <a href="https://media.innopolis.university/events/" class="footer-bottom-link" target="_blank">Мероприятия</a>
+                    </li><li class="footer-bottom-link__list-item">
+                        <a href="https://media.innopolis.university/" class="footer-bottom-link" target="_blank">Все медиа</a>
+                    </li></ul>
             </div>
 
             <div class="footer-bottom-link__list-wrap footer-bottom-link__list-wrap_links">

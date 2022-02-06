@@ -83,10 +83,10 @@
 <link href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900&display=swap&subset=cyrillic" type="text/css"  rel="stylesheet" />
 <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:100,200,300,400,500,600,700&display=swap&subset=cyrillic" type="text/css"  rel="stylesheet" />
 <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Mono:100,200,300,400,500,600,700&display=swap&subset=cyrillic" type="text/css"  rel="stylesheet" />
-<link href="/bitrix/cache/css/s9/university24/kernel_landing_assets_b847d6dd2af98c713b0bf13627740d3e/kernel_landing_assets_b847d6dd2af98c713b0bf13627740d3e_v1.css?16425072323853" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/s9/university24/kernel_landing_assets_b847d6dd2af98c713b0bf13627740d3e/kernel_landing_assets_b847d6dd2af98c713b0bf13627740d3e_v1.css?16438019563853" type="text/css"  rel="stylesheet" />
 <link href="/bitrix/js/altasib.errorsend/css/window.css?14605340164771" type="text/css"  rel="stylesheet" />
-<link href="/bitrix/cache/css/s9/university24/page_d118ff48322436c04c9ad613cdbcc6b9/page_d118ff48322436c04c9ad613cdbcc6b9_v1.css?164250663237177" type="text/css"  rel="stylesheet" />
-<link href="/bitrix/cache/css/s9/university24/template_2fcb2df936238e48a9db6a26e52e97eb/template_2fcb2df936238e48a9db6a26e52e97eb_v1.css?16425066321359307" type="text/css"  data-template-style="true" rel="stylesheet" />
+<link href="/bitrix/cache/css/s9/university24/page_d118ff48322436c04c9ad613cdbcc6b9/page_d118ff48322436c04c9ad613cdbcc6b9_v1.css?164380184237177" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/s9/university24/template_482d2f2e5b0a6cab37957f3a169e8ad6/template_482d2f2e5b0a6cab37957f3a169e8ad6_v1.css?16438018421270545" type="text/css"  data-template-style="true" rel="stylesheet" />
 <link href="/bitrix/panel/main/popup.min.css?146053375320704" type="text/css"  data-template-style="true"  rel="stylesheet" />
 <script type="text/javascript">if(!window.BX)window.BX={};if(!window.BX.message)window.BX.message=function(mess){if(typeof mess=='object') for(var i in mess) BX.message[i]=mess[i]; return true;};</script>
 <script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Loading...','JS_CORE_WINDOW_CLOSE':'Close','JS_CORE_WINDOW_EXPAND':'Expand','JS_CORE_WINDOW_NARROW':'Restore','JS_CORE_WINDOW_SAVE':'Save','JS_CORE_WINDOW_CANCEL':'Cancel','JS_CORE_H':'h','JS_CORE_M':'m','JS_CORE_S':'s','JS_CORE_NO_DATA':'- No data -','JSADM_AI_HIDE_EXTRA':'Hide extra items','JSADM_AI_ALL_NOTIF':'All notifications','JSADM_AUTH_REQ':'Authentication is required!','JS_CORE_WINDOW_AUTH':'Log In','JS_CORE_IMAGE_FULL':'Full size','JS_CORE_WINDOW_CONTINUE':'Continue'});</script>
@@ -96,12 +96,12 @@
 <script>BX.setJSList(['/bitrix/js/main/core/core_ajax.js','/bitrix/js/main/core/core_promise.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/loadext/loadext.js','/bitrix/js/main/loadext/extension.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/includes/js/includes.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/ui/polyfill/closest/js/closest.js','/bitrix/js/main/polyfill/fill/main.polyfill.fill.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/lazyload/dist/lazyload.bundle.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/parambag/dist/parambag.bundle.js']);
 BX.setCSSList(['/bitrix/js/main/lazyload/dist/lazyload.bundle.css','/bitrix/js/main/parambag/dist/parambag.bundle.css']);</script>
 <script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Loading...','JS_CORE_WINDOW_CLOSE':'Close','JS_CORE_WINDOW_EXPAND':'Expand','JS_CORE_WINDOW_NARROW':'Restore','JS_CORE_WINDOW_SAVE':'Save','JS_CORE_WINDOW_CANCEL':'Cancel','JS_CORE_H':'h','JS_CORE_M':'m','JS_CORE_S':'s','JS_CORE_NO_DATA':'- No data -','JSADM_AI_HIDE_EXTRA':'Hide extra items','JSADM_AI_ALL_NOTIF':'All notifications','JSADM_AUTH_REQ':'Authentication is required!','JS_CORE_WINDOW_AUTH':'Log In','JS_CORE_IMAGE_FULL':'Full size','JS_CORE_WINDOW_CONTINUE':'Continue'});</script>
-<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'en','FORMAT_DATE':'MM/DD/YYYY','FORMAT_DATETIME':'MM/DD/YYYY H:MI:SS T','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'10800','SITE_ID':'s9','SITE_DIR':'/en/','USER_ID':'','SERVER_TIME':'1643786589','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'d5b0cc3a8c755a243d4c30afd0bc9d30'});</script>
+<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'en','FORMAT_DATE':'MM/DD/YYYY','FORMAT_DATETIME':'MM/DD/YYYY H:MI:SS T','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'10800','SITE_ID':'s9','SITE_DIR':'/en/','USER_ID':'','SERVER_TIME':'1644146458','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'8e05046307067b565335f816a68d86c1'});</script>
 
 
-<script type="text/javascript"  src="/bitrix/cache/js/s9/university24/kernel_main/kernel_main_v1.js?1642515129142325"></script>
+<script type="text/javascript"  src="/bitrix/cache/js/s9/university24/kernel_main/kernel_main_v1.js?1643886936142325"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-<script type="text/javascript"  src="/bitrix/cache/js/s9/university24/kernel_landing_assets_b847d6dd2af98c713b0bf13627740d3e/kernel_landing_assets_b847d6dd2af98c713b0bf13627740d3e_v1.js?1642507232288270"></script>
+<script type="text/javascript"  src="/bitrix/cache/js/s9/university24/kernel_landing_assets_b847d6dd2af98c713b0bf13627740d3e/kernel_landing_assets_b847d6dd2af98c713b0bf13627740d3e_v1.js?1643801956288270"></script>
 <script type="text/javascript">BX.setJSList(['/bitrix/js/main/core/core_window.js','/bitrix/js/main/session.js','/bitrix/js/main/core/core_fx.js','/bitrix/js/main/dd.js','/bitrix/js/main/date/main.date.js','/bitrix/js/main/core/core_date.js','/bitrix/js/main/core/core.js','/bitrix/js/landing/utils/utils.js','/bitrix/js/landing/mediaplayer/base_mediaplayer.js','/bitrix/js/landing/mediaplayer/youtube_mediaplayer.js','/bitrix/js/landing/mediaplayer/mediaplayer_factory.js','/bitrix/js/main/polyfill/intersectionobserver/js/intersectionobserver.js','/bitrix/js/landing/event-tracker/event-tracker.js','/bitrix/js/landing/event-tracker/services/base-service.js','/bitrix/js/landing/event-tracker/services/google-analytics-service.js','/bitrix/js/landing/polyfill.js','/bitrix/js/landing/events/block_event.js','/bitrix/js/landing/public.js','/bitrix/components/bitrix/landing.pub/templates/.default/script.js','/local/components/university/contacts.question.form/templates/.default/script.js','/local/templates/.default/static/js/global.js','/local/templates/.default/static/js/index.js','/local/templates/university24/js/script.js']); </script>
 <script type="text/javascript">BX.setCSSList(['/bitrix/js/main/core/css/core.css','/local/blocks/university/infoblocks-two-column-download-button-minimize/style.css','/bitrix/js/landing/css/landing_public.css','/bitrix/components/bitrix/landing.pub/templates/.default/style.css','/local/templates/university24/css/landing24_editor.css','/local/templates/university24/css/custom_themes_core.min.css','/local/templates/.default/static/public/fonts/icons/style.css','/local/templates/.default/static/style/index.css','/local/templates/university24/template_styles.css']); </script>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -127,8 +127,8 @@ var ALXerrorSendMessages={
 
 
 
-<script type="text/javascript"  src="/bitrix/cache/js/s9/university24/template_78c549f1283ad05b42ae892cfd905f39/template_78c549f1283ad05b42ae892cfd905f39_v1.js?16425066331076064"></script>
-<script type="text/javascript"  src="/bitrix/cache/js/s9/university24/page_9853f06a144c961be6328b0ced5d0a7c/page_9853f06a144c961be6328b0ced5d0a7c_v1.js?16425066334223"></script>
+<script type="text/javascript"  src="/bitrix/cache/js/s9/university24/template_78c549f1283ad05b42ae892cfd905f39/template_78c549f1283ad05b42ae892cfd905f39_v1.js?16438018421076064"></script>
+<script type="text/javascript"  src="/bitrix/cache/js/s9/university24/page_9853f06a144c961be6328b0ced5d0a7c/page_9853f06a144c961be6328b0ced5d0a7c_v1.js?16438018424223"></script>
 <script type="text/javascript" src="https://www.youtube.com/iframe_api"></script>
 <script type="text/javascript">var _ba = _ba || []; _ba.push(["aid", "485b12fc1f914dda537897b37b715cdf"]); _ba.push(["host", "apply.innopolis.university"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
 
@@ -618,7 +618,7 @@ In 2020, graduates received job offers from partner companies of Innopolis Unive
                 <p class="how-to-proceed__info-number">01</p>
                 <h2 class="how-to-proceed__info-title">APPLY FOR SCHOLARSHIP</h2>
                 <div class="how-to-proceed__info-text"><p>Register in the admissions portal account, fill in an application form with all the mandatory fields, take the tests and click “SUBMIT” to complete the application.</p><p><br /></p><p>Selection criteria at this stage:</p><p><br /></p><p> — A technical university degree ( in the field of Computer Science or related fields)</p><p>— At least 6 months of technical experience in IT</p><p>— English language Proficiency (Intermediate level or higher) <br /></p></div>
-                <a href="https://apply.innopolis.ru/en/get-in/" class="how-to-proceed__info-btn btn-green btn icon-ic_arrow btn-with-arrow" target="_blank">Apply</a>
+                <a href="https://apply.innopolis.ru/en/get-in/" class="how-to-proceed__info-btn btn-green btn icon-ic_arrow btn-with-arrow" target="_self">Apply</a>
             </div>
 
             <div class="how-to-proceed__info">
@@ -642,8 +642,11 @@ In 2020, graduates received job offers from partner companies of Innopolis Unive
                         <div class="how-to-proceed__info__description-list__item">
                             <h5 class="how-to-proceed__info__description-list__item-number">01.</h5>
                             <h5 class="how-to-proceed__info__description-list__item-title-title">Online testing</h5>
-                            <div class="how-to-proceed__info__description-list__item-text"><p>
-                                    1. Professional testing:</p><p>• Networks (basic knowledge of network protocols TCP/IP) TCP/IP stack</p><p>• Transport Protocols</p><p>• Applications</p><p>• IP addressing</p><p>• OSI 7-Layer model</p><p>• Unix (knowledge of various GNU/*nix command line programs) testing in English.</p><p><br /></p><p>2. English language testing</p><p>You can confirm English proficiency in one of the following ways:</p><p>- providing an international English language test certificate (IELTS, TOEFL (including <a href="https://www.ets.org/s/cv/toefl/at-home/" target="_blank" style="text-decoration-line: underline;">TOEFL iBT Special Home Edition</a>), <a href="https://englishtest.duolingo.com/" target="_blank" style="text-decoration-line: underline;">Duolingo English Test</a>),</p><p>- taking IU extended English test (free of charge), OR</p><p>- providing an official letter from your School/University stating that the studies were delivered in English.<br /></p></div>
+                            <div class="how-to-proceed__info__description-list__item-text"><p>1. Professional testing:<br /></p><p>Your skills in solving algorithmic problems, writing SQL queries, understanding and correcting errors in someone else&#039;s code are tested.</p><p><br /></p><p>There are several practical tasks to be performed in 5 hours, 2 of which are for SQL knowledge. Languages: C++, C#, Java, JavaScript, Python, Ruby, SQL, in some cases you can use: Go, Lua, Objective-C, Pascal, PHP, Perl, Scala, Swift 2&3, VB. NET</p><p><span style="font-style: italic;">The ability to use a particular language depends on the task, in a certain case the choice may be limited.2</span></p><p><br /></p><p>
+
+
+
+2. English language testing</p><p>You can confirm English proficiency in one of the following ways:</p><p>- providing an international English language test certificate (IELTS, TOEFL (including <a href="https://www.ets.org/s/cv/toefl/at-home/" target="_blank" style="text-decoration-line: underline;">TOEFL iBT Special Home Edition</a>), <a href="https://englishtest.duolingo.com/" target="_blank" style="text-decoration-line: underline;">Duolingo English Test</a>),</p><p>- taking IU extended English test (free of charge), OR</p><p>- providing an official letter from your School/University stating that the studies were delivered in English.  <br /></p></div>
                             <div class="how-to-proceed__info__description-list__item-mark"><p></p></div>
                         </div>
                         <div class="how-to-proceed__info__description-list__item">
@@ -666,7 +669,7 @@ In 2020, graduates received job offers from partner companies of Innopolis Unive
                         </div>
                     </div>
                     <a class="how-to-proceed__info__description-close-btn"><i class="icon-ic_close"></i></a>
-                    <a href="https://apply.innopolis.ru/en/get-in/" class="how-to-proceed__info__description-more" target="_blank">Apply</a>
+                    <a href="https://apply.innopolis.ru/en/get-in/" class="how-to-proceed__info__description-more" target="_self">Apply</a>
                 </div>
             </div>
 
@@ -705,7 +708,7 @@ In 2020, graduates received job offers from partner companies of Innopolis Unive
             <input type="hidden" class="js-contacts-description" value="" />
             <input type="hidden" class="js-analytics-event" value="" />
             <form class="contacts__contact-us" id="contacts__form" action="" method="POST">
-    <input type="hidden" name="sessid" id="sessid" value="d5b0cc3a8c755a243d4c30afd0bc9d30" />    <input type="hidden" name="check_bot" value="101">
+    <input type="hidden" name="sessid" id="sessid" value="8e05046307067b565335f816a68d86c1" />    <input type="hidden" name="check_bot" value="101">
     <input type="hidden" name="action" value="contact_with_us">
     <input type="hidden" class="js-contants-email-to-input" name="email_to" value="">
     <input type="hidden" name="from" value="https://apply.innopolis.university/en/master/development/">
@@ -739,7 +742,9 @@ In 2020, graduates received job offers from partner companies of Innopolis Unive
 							<div class="landing-footer"><div id="block956" class="block-wrapper block-footer-default"><div class="footer-container">
     <div class="footer-top-wrap">
         <div class="container">
-            <a href="https://university.innopolis.ru/en/news/" class="footer-top-link-dashed" target="_self">Media</a>
+            <!--
+            <a href="#" class="footer-top-link-dashed">Все медиа</a>
+            -->
             <div class="footer-top-link-list "><div class="footer-top-link-list__item">
                     <a href="https://www.facebook.com/InnopolisU" class="footer-top-link" target="_blank" data-url="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FInnopolisU&tabs=timeline&width=340&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true">Facebook</a>
                 </div><div class="footer-top-link-list__item">

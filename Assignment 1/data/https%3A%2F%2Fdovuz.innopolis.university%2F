@@ -35,7 +35,7 @@
 <link href="/local/templates/dovuz24/template_styles.css?163284979910069" type="text/css"  data-template-style="true"  rel="stylesheet" />
 <script type="text/javascript">if(!window.BX)window.BX={};if(!window.BX.message)window.BX.message=function(mess){if(typeof mess=='object') for(var i in mess) BX.message[i]=mess[i]; return true;};</script>
 <script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_WINDOW_CONTINUE':'Продолжить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script>
-<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'10800','SITE_ID':'s3','SITE_DIR':'/','USER_ID':'','SERVER_TIME':'1643786602','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'c805d5ab9662d29b7d0e4d6c6958c5f3'});</script>
+<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'10800','SITE_ID':'s3','SITE_DIR':'/','USER_ID':'','SERVER_TIME':'1644146465','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'2adba401d687665a814b46fea3062d80'});</script>
 
 
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
@@ -467,15 +467,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <div class="olymps__body">
                     <div class="events-block d-flex align-items-center">
                                                     <div class="event-block d-flex align-items-stretch align-content-stretch">
-                                <div class="event-block-type type-robo">
-                                    Физика                                </div>
+                                <div class="event-block-type type-info">
+                                    Информатика                                </div>
                                 <div class="event-block-title">
                                     <span class="event-block-title-date">
-                                        4 апреля - 20 мая                                    </span>
+                                        24 января - 20 мая                                    </span>
                                     <span class="event-block-title-text">
-                                        Онлайн-практикум по подготовке к ЕГЭ: физика. Модуль 4                                    </span>
+                                        Онлайн-курс по программированию: Python                                    </span>
                                                                             <span class="event-block-title-text event-block-title-text_small">
-                                                                                        Для 10 - 11 классов                                        </span>
+                                                                                        Для 7 - 11 классов                                        </span>
                                                                     </div>
                                                                 <div class="event-block-footer ">
                                     <div class="event-block-footer-desc">
@@ -483,7 +483,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                                             <div class="event-block-footer-icons">
                                             <i class="icon-ic_pay"></i>
                                         </div>
-                                                                        <a class="event-block-footer-hover-block" href="/onlayn-praktikum-po-podgotovke-k-ege-fizika-modul-4/">
+                                                                        <a class="event-block-footer-hover-block" href="/python/">
                                         <span>
                                             Зарегистрироваться                                        </span>
                                         <i class="icon-ic_arrow"></i>
@@ -578,6 +578,107 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <div class="news-block d-flex flex-column align-items-center justify-content-between">
                             <div class="news-block-item">
                     <div class="news-block-item-img">
+                        <img src="/upload/iblock/9df/9dff3fa1287bbe0509974c9d805fe976.JPG" alt="">
+                    </div>
+                    <div class="news-block-item-desc">
+                        <div class="news-block-item-content">
+                            <div class="news-block-item-info">
+                                <div class="news-block-item-date">
+                                    03.02.2022                                </div>
+                                <div class="news-block-item-type">
+                                    Подготовка к ЕГЭ                                </div>
+                            </div>
+                            <div class="news-block-item-title">
+                                Стартовал набор на весенние интенсивы по программированию и подготовке к ЕГЭ                            </div>
+                            <div class="news-block-item-text">
+                                <p>
+	 С 26 марта по 2 апреля специалисты Центра подготовки и привлечения абитуриентов Университета Иннополис проведут онлайн-интенсивы по программированию для учащихся 7–11 классов, а также помогут старшеклассникам подготовиться к ЕГЭ по математике и информатике.
+</p>
+ <br>
+<p>
+	 Интенсивы - отличная возможность провести каникулы с пользой, научиться создавать интересные проекты, подготовиться к экзаменам. Занятия будут проходить в малых группах. Каждый день участникам предстоит 4 часа обучения (с перерывом на обед) на платформе Webinar. Для закрепления материала предусмотрены домашние задания. Школьники, успешно освоившие программу курсов по программированию, смогут получить электронный сертификат, а также добавить реализованные проекты в свое портфолио.
+</p>
+ <br>
+<p>
+	 2D-игры&nbsp;
+</p>
+<p>
+	 В программе - повторение базы языка Python, знакомство с библиотекой PyGame,&nbsp;работа со шрифтами, изображениями и звуком, обработка движений взаимодействия и многое другое. За неделю участники интенсива смогут самостоятельно создать две игры.
+</p>
+<p>
+	 Подробности и регистрация: <a href="http://dovuz.innopolis.university/2d-game/?utm_source=site&utm_medium=news&utm_campaign=dovuz&utm_content=3feb">https://dovuz.innopolis.university/2d-game/</a>
+</p>
+ <br>
+<p>
+	 Чат-боты
+</p>
+<p>
+	 Telegram - один из самых перспективных мессенджеров в мире с огромным количеством каналов и ботов на все случаи жизни. Интенсив поможет научиться их создавать с помощью языка Python. В программе - знакомство со структурой проекта, создание меню команд в боте, работа с машиной состояний, работа с платежами и другие темы. По окончании курса каждый ученик под контролем преподавателя напишет бота для Telegram.
+</p>
+<p>
+	 Подробности и регистрация: <a href="https://dovuz.innopolis.university/chatbot/?utm_source=site&utm_medium=news&utm_campaign=dovuz&utm_content=3feb">https://dovuz.innopolis.university/chatbot/</a>
+</p>
+ <br>
+<p>
+	 Фреймворк Django
+</p>
+<p>
+	 Данный курс поможет научиться создавать веб-приложения (сайты) на Python, используя фреймворк Django. Перед тем, как с ним познакомиться, слушателям предстоит повторить базу языка Python, изучить HTML, CSS, Javascript, закрепить ООП, навыки работы с git и github. В ходе обучения будут рассмотрены основы Django, шаблоны, формы, база данных, связка базы данных с программой (ORM), представления на основе классов. Завершением интенсива станет создание собственного сайта.
+</p>
+<p>
+	 Подробности и регистрация: <a href="https://dovuz.innopolis.university/django/?utm_source=site&utm_medium=news&utm_campaign=dovuz&utm_content=3feb">https://dovuz.innopolis.university/django/</a>
+</p>
+ <br>
+<p>
+	 Программирование на C++
+</p>
+<p>
+	 Курс поможет за короткий срок изучить основы одного из самых популярных языков программирования. С++ абсолютно универсален - на нем можно писать программы любой сложности. Java, C# и другие языки программирования, содержат в основе принципы C++. Если изучить C++, то любой другой язык не вызовет никаких затруднений.&nbsp;К тому же C++ часто используют на олимпиадах по программированию.
+</p>
+<p>
+	 Подробности и регистрация: <a href="https://dovuz.innopolis.university/prog-cpp/?utm_source=site&utm_medium=news&utm_campaign=dovuz&utm_content=3feb">https://dovuz.innopolis.university/prog-cpp/</a>
+</p>
+ <br>
+<p>
+	 Подготовка к ЕГЭ по математике
+</p>
+<p>
+	 Онлайн-интенсив посвящен заданиям второй части ЕГЭ. На занятиях будут подробно разобраны тригонометрические, логарифмические, показательные уравнения (№12) и неравенства (№14), а также задачи по стереометрии (№13). Завершать обучение будет финансовая задача (№15) - закрепим знания в расчете кредита, вклада и поиска экстремума в задачах на оптимальный выбор.
+</p>
+<p>
+	 Подробности и регистрация: <a href="https://dovuz.innopolis.university/intensiv-ege-matem/?utm_source=site&utm_medium=news&utm_campaign=dovuz&utm_content=3feb">https://dovuz.innopolis.university/intensiv-ege-matem/</a>
+</p>
+ <br>
+<p>
+	 Подготовка к ЕГЭ по информатике
+</p>
+<p>
+	 Обучение поможет подтянуть знания по информатике и программированию. Участники поработают с графами, рекурсивными алгоритмами, научатся анализировать чужой код (пригодится тестировщикам) и многое другое.
+</p>
+<p>
+	 Подробности и регистрация: <a href="https://dovuz.innopolis.university/intensiv-ege-informatika/?utm_source=site&utm_medium=news&utm_campaign=dovuz&utm_content=3feb">https://dovuz.innopolis.university/intensiv-ege-informatika/</a>
+</p>
+ <br>
+<p>
+	 Стоимость участия – 9&nbsp;000 рублей. Заявки принимаются до 21 марта. Количество мест ограничено.
+</p>
+ <br>                            </div>
+                        </div>
+                        <div class="news-block-item-footer">
+                            <div class="news-block-item-views">
+                            </div>
+                            <a class="news-block-item-show" href="/news/startoval-nabor-na-vesennie-intensivy-po-programmirovaniyu-i-podgotovke-k-ege/">
+                                <i class="icon-ic_pluse"></i>
+                                <span class="news-block-item-show-hover">
+                                    Читать
+                                    <i class="icon-ic_arrow"></i>
+                                </span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                            <div class="news-block-item">
+                    <div class="news-block-item-img">
                         <img src="/upload/iblock/147/147968481946050ddb1e4c95bb6da05a.jpg" alt="">
                     </div>
                     <div class="news-block-item-desc">
@@ -627,36 +728,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                             <div class="news-block-item-views">
                             </div>
                             <a class="news-block-item-show" href="/news/otkryta-registratsiya-na-kursy-po-programmirovaniyu-i-geometrii-/">
-                                <i class="icon-ic_pluse"></i>
-                                <span class="news-block-item-show-hover">
-                                    Читать
-                                    <i class="icon-ic_arrow"></i>
-                                </span>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                            <div class="news-block-item">
-                    <div class="news-block-item-img">
-                        <img src="/upload/iblock/1d7/1d7656cba5a3484505db600c4eacce73.jpg" alt="">
-                    </div>
-                    <div class="news-block-item-desc">
-                        <div class="news-block-item-content">
-                            <div class="news-block-item-info">
-                                <div class="news-block-item-date">
-                                    08.12.2021                                </div>
-                                <div class="news-block-item-type">
-                                    Подготовка к ЕГЭ                                </div>
-                            </div>
-                            <div class="news-block-item-title">
-                                Скидка 2000 рублей на курсы подготовки к ЕГЭ                            </div>
-                            <div class="news-block-item-text">
-                                В преддверии Нового года Университет Иннополис дарит дополнительную мотивацию на подготовку к единому государственному экзамену – скидку в размере 2000 рублей на курсы (3-й модуль) по математике, информатике и физике.                            </div>
-                        </div>
-                        <div class="news-block-item-footer">
-                            <div class="news-block-item-views">
-                            </div>
-                            <a class="news-block-item-show" href="/news/skidka-2000-rubley-na-kursy-podgotovki-k-ege/">
                                 <i class="icon-ic_pluse"></i>
                                 <span class="news-block-item-show-hover">
                                     Читать
