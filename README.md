@@ -7,3 +7,4 @@ Group: B19-DS-01
 1. Crawler Algorithm
 2. Evaluation of Ranked Retrieval Results
 3. Geocoding
+4. Query Autocomplete
